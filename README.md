@@ -1,8 +1,13 @@
 ## 疫情居家准备指南（不断更新中）
 
 *by KuyiKing*
-<br>
 
+> *写在前面*
+> * 该指南为作者自己的实践经验，主要提供作者亲历居家后总结的最必需的准备要点及相关信息。
+> * 该指南在正常生活时，也可作为租房、搬家等备货参考。
+> * 处于谨慎考虑，该指南不提供具体药物、品牌等推荐。
+> * 该指南仅供参考，后果自负，欢迎补充。
+<br>
 
 ### 0 调整状态
 * 心态
@@ -151,7 +156,7 @@
     - 盆：建议不同尺寸准备2至3个，洗不同物件
     - 桶：建议至少准备一个，可浸泡大型物件，也可用于储水
     - 洗衣液：建议备除螨、杀菌型
-    - 消毒液：建议84消毒液，可除菌、漂白、去污
+    - 消毒液：可除菌、漂白、去污
     - 橡胶手套
     - 衣架：建议备2至3个大尺寸衣架用于晾晒床单被套、3至5个十字衣架晾晒裤/裙、圆环架子衣架1个晾晒袜子、网兜1至2个晾晒毛绒玩具/特殊物件，普通衣架则准备15至35个
     - 夹子：建议大夹子3至5个，小夹子30至50个，塑料/木/铁架混搭选择，在冬天塑料夹易碎，铁夹易锈
@@ -222,6 +227,22 @@
     - 绳：准备1.5至3米结识绳索若干，用于捆紧背包或袋子
 
 ### 6 网站
-  * [隔离食用手册](https://cook.yunyoujun.cn/)
-  * [HowToCook](https://github.com/Anduin2017/HowToCook)
-  
+  * 囤菜
+    - [快收藏！这样囤菜一个月都够吃（附蔬菜短缺应对方法](https://mp.weixin.qq.com/s/emFHcIT66o-OlJmkFbAupw)
+    - [囤菜指南！](https://mp.weixin.qq.com/s/E0cTD6jTGhZHrzpSWKotbA)
+    - [囤的菜发芽、变色了别急着扔！这几种都可以吃](https://mp.weixin.qq.com/s/3BN7OiGoAfD1diXyHlGcSg)
+    - [疫情期间，有些绿叶菜别急着扔，改造一下还能“重生”](https://mp.weixin.qq.com/s/dnsBVEkJQlemh95uR7bYdg)
+    - [阳台种菜？记住这几招，新手也毫无压力](https://mp.weixin.qq.com/s/XpGtMpM8ClzjdIW8sFHjog)
+  * 做菜
+    - [隔离食用手册](https://cook.yunyoujun.cn/)
+    - [HowToCook](https://github.com/Anduin2017/HowToCook)
+    - [宅家学做菜，请先学会看懂菜谱！](https://mp.weixin.qq.com/s/dJ7PVy2X2EoUcxjRSZkdZQ)
+    - [生抽老抽、鸡精味精...各种调味品都有啥区别？](https://mp.weixin.qq.com/s/ZT9Gwkpi0E0Aifc-N9l-pg)
+  * 冰箱使用
+    - [冰箱用不对会让细菌加倍！你家的冰箱该清理啦](https://mp.weixin.qq.com/s/Ywsq_me1_jHSFfT8HHZhEg)
+    - [有些水果，千万不要放冰箱](https://mp.weixin.qq.com/s/h0_GpSFRm5Z554g4IWcjzg)
+  * 心理健康
+    - [疫情之下，如何在混乱中重建内心的平静？](https://mp.weixin.qq.com/s/JSw8j0ArqDX4ZMTJsfFkSg)
+  * 装备
+    - [如果突然被通知要隔离，应该准备些什么？（附：囤货清单](https://mp.weixin.qq.com/s/az1BrnCGg3sIpQqHOuBUVQ)
+
