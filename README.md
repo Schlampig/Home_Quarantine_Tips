@@ -233,6 +233,7 @@
     - [囤的菜发芽、变色了别急着扔！这几种都可以吃](https://mp.weixin.qq.com/s/3BN7OiGoAfD1diXyHlGcSg)
     - [疫情期间，有些绿叶菜别急着扔，改造一下还能“重生”](https://mp.weixin.qq.com/s/dnsBVEkJQlemh95uR7bYdg)
     - [阳台种菜？记住这几招，新手也毫无压力](https://mp.weixin.qq.com/s/XpGtMpM8ClzjdIW8sFHjog)
+    - [上海人民最后悔没囤的：这份清单你可以直接拿去采购](https://mp.weixin.qq.com/s/FCPMXueWfMJjNUXAStBTJA)
   * 做菜
     - [隔离食用手册](https://cook.yunyoujun.cn/)
     - [HowToCook](https://github.com/Anduin2017/HowToCook)
