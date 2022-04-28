@@ -234,11 +234,14 @@
     - [疫情期间，有些绿叶菜别急着扔，改造一下还能“重生”](https://mp.weixin.qq.com/s/dnsBVEkJQlemh95uR7bYdg)
     - [阳台种菜？记住这几招，新手也毫无压力](https://mp.weixin.qq.com/s/XpGtMpM8ClzjdIW8sFHjog)
     - [上海人民最后悔没囤的：这份清单你可以直接拿去采购](https://mp.weixin.qq.com/s/FCPMXueWfMJjNUXAStBTJA)
+    - [你真的囤对菜了吗？青菜、油菜、小白菜，到底是不是一种菜](https://mp.weixin.qq.com/s/SM0Zrg4oem2cZu51RGYYDw)
+    - [保存新鲜蒜苔，不要直接放冰箱，学会这一招，吃半年都很新鲜](https://mp.weixin.qq.com/s/w32Dl1T4BP2So2-26lLjkQ)
   * 做菜
     - [隔离食用手册](https://cook.yunyoujun.cn/)
     - [HowToCook](https://github.com/Anduin2017/HowToCook)
     - [宅家学做菜，请先学会看懂菜谱！](https://mp.weixin.qq.com/s/dJ7PVy2X2EoUcxjRSZkdZQ)
     - [生抽老抽、鸡精味精...各种调味品都有啥区别？](https://mp.weixin.qq.com/s/ZT9Gwkpi0E0Aifc-N9l-pg)
+    - [官方最新发布来了！更适合中国人的 10 个吃饭建议，赶紧学](https://mp.weixin.qq.com/s/fmYCFneUQnnNxBkpCyv-VA)
   * 冰箱使用
     - [冰箱用不对会让细菌加倍！你家的冰箱该清理啦](https://mp.weixin.qq.com/s/Ywsq_me1_jHSFfT8HHZhEg)
     - [有些水果，千万不要放冰箱](https://mp.weixin.qq.com/s/h0_GpSFRm5Z554g4IWcjzg)
@@ -246,4 +249,5 @@
     - [疫情之下，如何在混乱中重建内心的平静？](https://mp.weixin.qq.com/s/JSw8j0ArqDX4ZMTJsfFkSg)
   * 装备
     - [如果突然被通知要隔离，应该准备些什么？（附：囤货清单](https://mp.weixin.qq.com/s/az1BrnCGg3sIpQqHOuBUVQ)
-
+  * 检测
+    - [喝完可乐做新冠抗原测试，阳了？很可能是你没操作对](https://mp.weixin.qq.com/s/v3UiSahQxbcXCxr-CaIj2Q)
