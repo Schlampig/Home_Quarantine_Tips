@@ -250,6 +250,7 @@
   * 冰箱使用
     - [冰箱用不对会让细菌加倍！你家的冰箱该清理啦](https://mp.weixin.qq.com/s/Ywsq_me1_jHSFfT8HHZhEg)
     - [有些水果，千万不要放冰箱](https://mp.weixin.qq.com/s/h0_GpSFRm5Z554g4IWcjzg)
+    - [千万不要放进冰箱的14种果蔬，不然这就是下场！](https://mp.weixin.qq.com/s/se0uRsbntzoIC-Nb3kOiXg)
   * 心理健康
     - [疫情之下，如何在混乱中重建内心的平静？](https://mp.weixin.qq.com/s/JSw8j0ArqDX4ZMTJsfFkSg)
   * 装备
