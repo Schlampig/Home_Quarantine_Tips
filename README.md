@@ -241,6 +241,7 @@
     - [上海人民最后悔没囤的：这份清单你可以直接拿去采购](https://mp.weixin.qq.com/s/FCPMXueWfMJjNUXAStBTJA)
     - [你真的囤对菜了吗？青菜、油菜、小白菜，到底是不是一种菜](https://mp.weixin.qq.com/s/SM0Zrg4oem2cZu51RGYYDw)
     - [保存新鲜蒜苔，不要直接放冰箱，学会这一招，吃半年都很新鲜](https://mp.weixin.qq.com/s/w32Dl1T4BP2So2-26lLjkQ)
+    - [想犯个懒？这些速食也不错](https://mp.weixin.qq.com/s/DBTaoNmB_DDqPnQ81skzXA)
   * 做菜
     - [隔离食用手册](https://cook.yunyoujun.cn/)
     - [HowToCook](https://github.com/Anduin2017/HowToCook)
@@ -251,6 +252,9 @@
     - [冰箱用不对会让细菌加倍！你家的冰箱该清理啦](https://mp.weixin.qq.com/s/Ywsq_me1_jHSFfT8HHZhEg)
     - [有些水果，千万不要放冰箱](https://mp.weixin.qq.com/s/h0_GpSFRm5Z554g4IWcjzg)
     - [千万不要放进冰箱的14种果蔬，不然这就是下场！](https://mp.weixin.qq.com/s/se0uRsbntzoIC-Nb3kOiXg)
+    - [冰箱里冻了 1 年的肉，还能吃吗？](https://mp.weixin.qq.com/s/sXTZHaUxrK2Jk4Z15xz0og)
+  * 卫生清洁
+    - [这样洗衣，又干净又放心](https://mp.weixin.qq.com/s/955M4Lm0UPNxwFHovC9mNw)
   * 心理健康
     - [疫情之下，如何在混乱中重建内心的平静？](https://mp.weixin.qq.com/s/JSw8j0ArqDX4ZMTJsfFkSg)
   * 装备
