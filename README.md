@@ -308,5 +308,6 @@
   * 检测与诊断
     - [买不到新冠抗原试剂盒，该怎么办？](https://mp.weixin.qq.com/s/TzWVuJ1eh04RgoV7X6Lz0w) | 丁香医生 2022-12-10
     - [喝完可乐做新冠抗原测试，阳了？很可能是你没操作对](https://mp.weixin.qq.com/s/v3UiSahQxbcXCxr-CaIj2Q) | 果壳 2022-04-25
+    - [抗原检测为啥是红杠？相同的原理还可能检测家里酒的年龄](https://mp.weixin.qq.com/s/-b2NhBJ330qu5WvFiXhxRQ) | 环球科学 2022-12-11
     - [有些体检指标异常不是病，专家教你读懂体检报告](https://mp.weixin.qq.com/s/6rJhzpUkI5aXKAIPkXIbgQ) | 丁香医生 2022-11-20
     - [医生总让人拍片子，但看的到底是啥？](https://mp.weixin.qq.com/s/OLf47Bo1HZPEKS_oAQG41g) | 丁香医生 2022-10-28
