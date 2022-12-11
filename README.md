@@ -258,6 +258,7 @@
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
+    - [新冠阳性家庭自述：当老人、孩子 40 度高烧，我们如何度过](https://mp.weixin.qq.com/s/exijF5kIQlpLFwvDNG2Bag) | 丁香医生 2022-12-11
 <br>
 
 ### 7 参考资料
