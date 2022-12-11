@@ -253,11 +253,21 @@
     - [有些水果，千万不要放冰箱](https://mp.weixin.qq.com/s/h0_GpSFRm5Z554g4IWcjzg)
     - [千万不要放进冰箱的14种果蔬，不然这就是下场！](https://mp.weixin.qq.com/s/se0uRsbntzoIC-Nb3kOiXg)
     - [冰箱里冻了 1 年的肉，还能吃吗？](https://mp.weixin.qq.com/s/sXTZHaUxrK2Jk4Z15xz0og)
+    - [冰箱不是保险箱，5个食材收纳技巧提高安全指数](https://mp.weixin.qq.com/s/xQJMrYp_sx2fx8futQpnOw) | 上海疾控 2022-12-07
   * 卫生清洁
     - [这样洗衣，又干净又放心](https://mp.weixin.qq.com/s/955M4Lm0UPNxwFHovC9mNw)
   * 心理健康
     - [疫情之下，如何在混乱中重建内心的平静？](https://mp.weixin.qq.com/s/JSw8j0ArqDX4ZMTJsfFkSg)
+    - [如何判断自己或身边人只是不开心，还是抑郁症？](https://mp.weixin.qq.com/s/3_Zo-7Svzzs54udyUqZpvw) | 丁香生活研究所 2022-11-17
+    - [如何治疗家人之间的“假性亲密”](https://mp.weixin.qq.com/s/Qw9_AJmWbC49tCsb0E973A) | 三联生活周刊 2022-11-15
+  * 健身
+    - [什么健身器械最适合看剧和堆衣服？](https://mp.weixin.qq.com/s/hgGQ3W1W0SYD1wxnAp2OSA) | 果壳 2022-12-06
+    - [这个平板支撑做得好看吗？全身都错 | 果断练](https://mp.weixin.qq.com/s/64zg0wdk4nAJc4d-pONdvQ) | 果壳 2020-04-26
+    - [还用仰卧起坐练腹肌？小心你的腰](https://mp.weixin.qq.com/s/aM53t0gbSHbF0WCcOM3Ung) | 果壳 2022-11-27
   * 装备
     - [如果突然被通知要隔离，应该准备些什么？（附：囤货清单](https://mp.weixin.qq.com/s/az1BrnCGg3sIpQqHOuBUVQ)
-  * 检测
+  * 检测与诊断
+    - [买不到新冠抗原试剂盒，该怎么办？](https://mp.weixin.qq.com/s/TzWVuJ1eh04RgoV7X6Lz0w) | 丁香医生 2022-12-10
     - [喝完可乐做新冠抗原测试，阳了？很可能是你没操作对](https://mp.weixin.qq.com/s/v3UiSahQxbcXCxr-CaIj2Q)
+    - [有些体检指标异常不是病，专家教你读懂体检报告](https://mp.weixin.qq.com/s/6rJhzpUkI5aXKAIPkXIbgQ) | 丁香医生 2022-11-20
+    - [医生总让人拍片子，但看的到底是啥？](https://mp.weixin.qq.com/s/OLf47Bo1HZPEKS_oAQG41g) | 丁香医生 2022-10-28
