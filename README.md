@@ -234,20 +234,25 @@
 
 ### 6 感染后应对
   * 政策时间线
+    - [钟南山：感染峰值会在明年的1月底2月出现](https://mp.weixin.qq.com/s/mcArdoZm5IAKu_uhizS0mA) | 第一财经 2022-12-11
+    - [张文宏：本次疫情高峰可能会在一个月内到来](https://mp.weixin.qq.com/s/ZiG-eIYLyWikf9IBi7RAzQ) | 财新网 2022-12-11
     - [国务院联防联控机制：关于进一步优化落实新冠肺炎疫情防控措施的通知](https://mp.weixin.qq.com/s/JsVqePFeB6ICJuXleU_lFg) | 上海发布 2022-12-07
     - [新冠病毒防控回归乙类管理条件渐趋成熟](https://mp.weixin.qq.com/s/8P9oW0APyb52uh2y3nLu3w) | 第一财经 2022-12-04
     - [我市优化调整疫情防控相关措施](https://mp.weixin.qq.com/s/5dfFIHNmlakKHVplVbiouA) | 上海发布 2022-12-04
     - [多个超大特大城市同步调整防疫措施](https://mp.weixin.qq.com/s/0CIaJ2bLpNsuz_rcK5Ectw) | 第一财经 2022-12-01
     - [官方连发四大重磅文件！事关核酸检测、风险区划定、居家隔离和健康监测→](https://mp.weixin.qq.com/s/xnrSM7M03nJM4WlKALES4A) | 第一财经 2022-11-21
     - [多地发通知：11月起核酸检测要收费了](https://mp.weixin.qq.com/s/YfrMyFrZjNNtt514HvOUSQ) | 第一财经 2022-11-02
-  * 预防与选择（居家or就医）
+  * 预防，自测，选择（居家or就医）
     - [不把新冠带进家，学会这个大原则就够了](https://mp.weixin.qq.com/s/imf7PkF42v2pDLv1Xit7iw) | 果壳 2022-12-09
+    - [新冠抗原居家自测，看这一篇就够了！（建议收藏）](https://mp.weixin.qq.com/s/eJFj4cwmqkYk2NW3GLNr0Q) | 果壳 2022-12-08
     - [抗新冠策略千万条，核心就一条：得了新冠是否需要去医院？](https://mp.weixin.qq.com/s/FNnr7flf8fxmdyWVCaGh9w) | 华山感染 2022-12-08
     - [感染新冠病毒后需要去医院吗？居家隔离需注意什么？如何备药用药？今天的发布会聚焦这些热点问题](https://mp.weixin.qq.com/s/QyVso2Z2hJNElg4sf_OhcA) | 上海发布 2022-12-08
   * 居家隔离
+    - [面对不知何时会来的新冠阳性，你需要这份简明扼要的手册](https://mp.weixin.qq.com/s/J-7G549iotXKRwWScMFukg) | 果壳 2022-12-11
     - [新冠阳性怎么办？一份居家隔离指南](https://mp.weixin.qq.com/s/G-b4md7Ms0MD2ofeTVS-tg) | 丁香医生 2022-12-07
     - [应对新冠，我们应该备什么药？（附：家中常备药清单](https://mp.weixin.qq.com/s/tCq0dRUtyIfDlx6dAQjWJQ) | 丁香生活研究所 2022-12-08
     - [重要提醒！新冠用药的 10 个注意事项](https://mp.weixin.qq.com/s/uVqD6y_YY3-lFPrnT4BBQw) | 丁香医生 2022-12-10
+    - [为新冠准备的家庭药物中，这几个需要特别注意](https://mp.weixin.qq.com/s/-ct84KRI-hqq4uKuyPWtdg) | 果壳 2022-12-07
     - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
     - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
   * 症状了解
