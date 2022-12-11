@@ -234,6 +234,7 @@
 
 ### 6 感染后应对
   * 政策时间线
+    - [钟鸣：预计1个月内达到感染峰值，重症救治更考验医疗资源配置](https://mp.weixin.qq.com/s/9prmdoOTBSAIE_Phfc3jKg) | 第一财经 2022-12-11
     - [钟南山：感染峰值会在明年的1月底2月出现](https://mp.weixin.qq.com/s/mcArdoZm5IAKu_uhizS0mA) | 第一财经 2022-12-11
     - [张文宏：本次疫情高峰可能会在一个月内到来](https://mp.weixin.qq.com/s/ZiG-eIYLyWikf9IBi7RAzQ) | 财新网 2022-12-11
     - [国务院联防联控机制：关于进一步优化落实新冠肺炎疫情防控措施的通知](https://mp.weixin.qq.com/s/JsVqePFeB6ICJuXleU_lFg) | 上海发布 2022-12-07
@@ -254,12 +255,14 @@
     - [应对新冠，我们应该备什么药？（附：家中常备药清单](https://mp.weixin.qq.com/s/tCq0dRUtyIfDlx6dAQjWJQ) | 丁香生活研究所 2022-12-08
     - [重要提醒！新冠用药的 10 个注意事项](https://mp.weixin.qq.com/s/uVqD6y_YY3-lFPrnT4BBQw) | 丁香医生 2022-12-10
     - [为新冠准备的家庭药物中，这几个需要特别注意](https://mp.weixin.qq.com/s/-ct84KRI-hqq4uKuyPWtdg) | 果壳 2022-12-07
+    - [发烧必须要吃退烧药吗？何时开始服药？专家这样建议](https://mp.weixin.qq.com/s/BIkVsAGbHkbqy2mmUPGRnA) | 第一财经 2022-12-11
     - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
     - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
     - [新冠阳性家庭自述：当老人、孩子 40 度高烧，我们如何度过](https://mp.weixin.qq.com/s/exijF5kIQlpLFwvDNG2Bag) | 丁香医生 2022-12-11
+    - [铲屎官感染了新冠，家里宠物怎么办？首先，不必给它们戴口罩](https://mp.weixin.qq.com/s/4kB-5HH5ucb9Bm6XSCF5Dw) | 果壳 2022-12-11
 <br>
 
 ### 7 参考资料
