@@ -250,6 +250,7 @@
   * 居家隔离，物资及用药
     - [面对不知何时会来的新冠阳性，你需要这份简明扼要的手册](https://mp.weixin.qq.com/s/J-7G549iotXKRwWScMFukg) | 果壳 2022-12-11
     - [新冠阳性怎么办？一份居家隔离指南](https://mp.weixin.qq.com/s/G-b4md7Ms0MD2ofeTVS-tg) | 丁香医生 2022-12-07
+    - [孩子感染新冠怎么办？最全居家护理指南](https://mp.weixin.qq.com/s/ty0Z36ZQNLVVpVnzmZX5VQ) | 丁香医生 2022-12-11
     - [应对新冠，我们应该备什么药？（附：家中常备药清单](https://mp.weixin.qq.com/s/tCq0dRUtyIfDlx6dAQjWJQ) | 丁香生活研究所 2022-12-08
     - [重要提醒！新冠用药的 10 个注意事项](https://mp.weixin.qq.com/s/uVqD6y_YY3-lFPrnT4BBQw) | 丁香医生 2022-12-10
     - [为新冠准备的家庭药物中，这几个需要特别注意](https://mp.weixin.qq.com/s/-ct84KRI-hqq4uKuyPWtdg) | 果壳 2022-12-07
