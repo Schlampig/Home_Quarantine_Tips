@@ -247,6 +247,7 @@
   * 预防，自测，选择（居家or就医）
     - [不把新冠带进家，学会这个大原则就够了](https://mp.weixin.qq.com/s/imf7PkF42v2pDLv1Xit7iw) | 果壳 2022-12-09
     - [新冠抗原居家自测，看这一篇就够了！（建议收藏）](https://mp.weixin.qq.com/s/eJFj4cwmqkYk2NW3GLNr0Q) | 果壳 2022-12-08
+    - [我们如何保护老年人和脆弱人群安然度过疫情？](https://mp.weixin.qq.com/s/Et4D9fDQrsb4gUi73vq2Vw) | 华山感染 2022-12-01
     - [抗新冠策略千万条，核心就一条：得了新冠是否需要去医院？](https://mp.weixin.qq.com/s/FNnr7flf8fxmdyWVCaGh9w) | 华山感染 2022-12-08
     - [感染新冠病毒后需要去医院吗？居家隔离需注意什么？如何备药用药？今天的发布会聚焦这些热点问题](https://mp.weixin.qq.com/s/QyVso2Z2hJNElg4sf_OhcA) | 上海发布 2022-12-08
   * 居家隔离，物资及用药
