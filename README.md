@@ -234,6 +234,7 @@
 
 ### 6 感染后应对
   * 政策时间线
+    - [“通信行程卡”明日下线！](https://mp.weixin.qq.com/s/e9moTyeBXTSSZdtY302-vA) | 第一财经 2022-12-12
     - [钟鸣：预计1个月内达到感染峰值，重症救治更考验医疗资源配置](https://mp.weixin.qq.com/s/9prmdoOTBSAIE_Phfc3jKg) | 第一财经 2022-12-11
     - [钟南山：感染峰值会在明年的1月底2月出现](https://mp.weixin.qq.com/s/mcArdoZm5IAKu_uhizS0mA) | 第一财经 2022-12-11
     - [张文宏：本次疫情高峰可能会在一个月内到来](https://mp.weixin.qq.com/s/ZiG-eIYLyWikf9IBi7RAzQ) | 财新网 2022-12-11
