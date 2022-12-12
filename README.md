@@ -246,6 +246,7 @@
     - [多地发通知：11月起核酸检测要收费了](https://mp.weixin.qq.com/s/YfrMyFrZjNNtt514HvOUSQ) | 第一财经 2022-11-02
   * 预防，自测，选择（居家or就医）
     - [不把新冠带进家，学会这个大原则就够了](https://mp.weixin.qq.com/s/imf7PkF42v2pDLv1Xit7iw) | 果壳 2022-12-09
+      - [家里有人阳了，怎么避免传染？超详细指导手册来了](https://mp.weixin.qq.com/s/kE-ELDhxeoFSzhNpJwJZxQ) | 丁香医生 2022-12-12
     - [新冠抗原居家自测，看这一篇就够了！（建议收藏）](https://mp.weixin.qq.com/s/eJFj4cwmqkYk2NW3GLNr0Q) | 果壳 2022-12-08
       - [抗原自测9大注意事项，你都知道吗→](https://mp.weixin.qq.com/s/5WsLXbj7TWCN5ugtErJCJQ) | 上海发布 2022-12-12
     - [我们如何保护老年人和脆弱人群安然度过疫情？](https://mp.weixin.qq.com/s/Et4D9fDQrsb4gUi73vq2Vw) | 华山感染 2022-12-01
