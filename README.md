@@ -247,18 +247,21 @@
   * 预防，自测，选择（居家or就医）
     - [不把新冠带进家，学会这个大原则就够了](https://mp.weixin.qq.com/s/imf7PkF42v2pDLv1Xit7iw) | 果壳 2022-12-09
     - [新冠抗原居家自测，看这一篇就够了！（建议收藏）](https://mp.weixin.qq.com/s/eJFj4cwmqkYk2NW3GLNr0Q) | 果壳 2022-12-08
+      - [抗原自测9大注意事项，你都知道吗→](https://mp.weixin.qq.com/s/5WsLXbj7TWCN5ugtErJCJQ) | 上海发布 2022-12-12
     - [我们如何保护老年人和脆弱人群安然度过疫情？](https://mp.weixin.qq.com/s/Et4D9fDQrsb4gUi73vq2Vw) | 华山感染 2022-12-01
+      - [张文宏：新冠最终会成为季节性流行病，如何帮助老人躲过第一波感染](https://mp.weixin.qq.com/s/vjzFpF7Lk_2EaE530u4jAA) | 第一财经 2022-12-12
     - [抗新冠策略千万条，核心就一条：得了新冠是否需要去医院？](https://mp.weixin.qq.com/s/FNnr7flf8fxmdyWVCaGh9w) | 华山感染 2022-12-08
     - [感染新冠病毒后需要去医院吗？居家隔离需注意什么？如何备药用药？今天的发布会聚焦这些热点问题](https://mp.weixin.qq.com/s/QyVso2Z2hJNElg4sf_OhcA) | 上海发布 2022-12-08
+    - [身边人阳了，但这样消毒根本没用！（看看你中招没 ）](https://mp.weixin.qq.com/s/TngYIuFwEVHRxUgGJWZI0Q) | 果壳 2022-12-12
   * 居家隔离，物资及用药
     - [面对不知何时会来的新冠阳性，你需要这份简明扼要的手册](https://mp.weixin.qq.com/s/J-7G549iotXKRwWScMFukg) | 果壳 2022-12-11
-    - [新冠阳性怎么办？一份居家隔离指南](https://mp.weixin.qq.com/s/G-b4md7Ms0MD2ofeTVS-tg) | 丁香医生 2022-12-07
-    - [孩子感染新冠怎么办？最全居家护理指南](https://mp.weixin.qq.com/s/ty0Z36ZQNLVVpVnzmZX5VQ) | 丁香医生 2022-12-11
+      - [新冠阳性怎么办？一份居家隔离指南](https://mp.weixin.qq.com/s/G-b4md7Ms0MD2ofeTVS-tg) | 丁香医生 2022-12-07
+      - [孩子感染新冠怎么办？最全居家护理指南](https://mp.weixin.qq.com/s/ty0Z36ZQNLVVpVnzmZX5VQ) | 丁香医生 2022-12-11
     - [应对新冠，我们应该备什么药？（附：家中常备药清单](https://mp.weixin.qq.com/s/tCq0dRUtyIfDlx6dAQjWJQ) | 丁香生活研究所 2022-12-08
-    - [重要提醒！新冠用药的 10 个注意事项](https://mp.weixin.qq.com/s/uVqD6y_YY3-lFPrnT4BBQw) | 丁香医生 2022-12-10
-    - [为新冠准备的家庭药物中，这几个需要特别注意](https://mp.weixin.qq.com/s/-ct84KRI-hqq4uKuyPWtdg) | 果壳 2022-12-07
-    - [发烧必须要吃退烧药吗？何时开始服药？专家这样建议](https://mp.weixin.qq.com/s/BIkVsAGbHkbqy2mmUPGRnA) | 第一财经 2022-12-11
-    - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
+      - [重要提醒！新冠用药的 10 个注意事项](https://mp.weixin.qq.com/s/uVqD6y_YY3-lFPrnT4BBQw) | 丁香医生 2022-12-10
+      - [为新冠准备的家庭药物中，这几个需要特别注意](https://mp.weixin.qq.com/s/-ct84KRI-hqq4uKuyPWtdg) | 果壳 2022-12-07
+      - [发烧必须要吃退烧药吗？何时开始服药？专家这样建议](https://mp.weixin.qq.com/s/BIkVsAGbHkbqy2mmUPGRnA) | 第一财经 2022-12-11
+      - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
     - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
