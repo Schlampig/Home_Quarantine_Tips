@@ -234,6 +234,7 @@
 
 ### 6 感染后应对
   * 政策时间线
+    - [收藏！上海市各区均已公布卫生健康服务咨询热线](https://mp.weixin.qq.com/s/YqY-h55ow7yyVngvyzmt0w) | 上海发布 2022-12-13
     - [行程卡下线！个人数据怎么办？三大运营商回应→](https://mp.weixin.qq.com/s/6W30myB5j6gqMwkvaebJ5Q) | 第一财经 2022-12-13
     - [我市持续优化调整相关疫情防控措施，除特定场所外，不再要求查验“随申码”扫“场所码”](https://mp.weixin.qq.com/s/tImsCPnNRE4cac1UjWCvTQ) | 上海发布 2022-12-12
     - [“通信行程卡”明日下线！](https://mp.weixin.qq.com/s/e9moTyeBXTSSZdtY302-vA) | 第一财经 2022-12-12
@@ -248,6 +249,7 @@
     - [多地发通知：11月起核酸检测要收费了](https://mp.weixin.qq.com/s/YfrMyFrZjNNtt514HvOUSQ) | 第一财经 2022-11-02
   * 预防，自测，选择（居家or就医）
     - [新冠疫苗加强针，还有必要打吗？](https://mp.weixin.qq.com/s/84dVxEjvp4w8bO2ZOmxJQg) | 丁香医生 2022-12-12
+      - [吸入式新冠疫苗是什么？适合谁打？](https://mp.weixin.qq.com/s/hEtb928gVAl0UpDYVpIBUw)
     - [不把新冠带进家，学会这个大原则就够了](https://mp.weixin.qq.com/s/imf7PkF42v2pDLv1Xit7iw) | 果壳 2022-12-09
       - [家里有人阳了，怎么避免传染？超详细指导手册来了](https://mp.weixin.qq.com/s/kE-ELDhxeoFSzhNpJwJZxQ) | 丁香医生 2022-12-12
       - [身边人阳了，但这样消毒根本没用！（看看你中招没 ）](https://mp.weixin.qq.com/s/TngYIuFwEVHRxUgGJWZI0Q) | 果壳 2022-12-12
@@ -262,18 +264,21 @@
     - [【便民】新冠病毒感染者居家指引（第一版）发布](https://mp.weixin.qq.com/s/2v0PgaiSd6O_8QVWIH6t_g) | 上海发布 2022-12-13
       - [面对不知何时会来的新冠阳性，你需要这份简明扼要的手册](https://mp.weixin.qq.com/s/J-7G549iotXKRwWScMFukg) | 果壳 2022-12-11
       - [新冠阳性怎么办？一份居家隔离指南](https://mp.weixin.qq.com/s/G-b4md7Ms0MD2ofeTVS-tg) | 丁香医生 2022-12-07
+    - [新冠阳性家庭自述：当老人、孩子 40 度高烧，我们如何度过](https://mp.weixin.qq.com/s/exijF5kIQlpLFwvDNG2Bag) | 丁香医生 2022-12-11
+      - [应对新冠，孕期、有孩子家庭应该备什么药？（附：常备药清单](https://mp.weixin.qq.com/s/75QU_hWMruoECZDXmla6_Q)
+      - [老人得了新冠怎么办？](https://mp.weixin.qq.com/s/MoANgw_SQM2GFGqvaMKoAg) | 丁香医生 2022-12-13
       - [孩子感染新冠怎么办？最全居家护理指南](https://mp.weixin.qq.com/s/ty0Z36ZQNLVVpVnzmZX5VQ) | 丁香医生 2022-12-11
+      - [铲屎官感染了新冠，家里宠物怎么办？首先，不必给它们戴口罩](https://mp.weixin.qq.com/s/4kB-5HH5ucb9Bm6XSCF5Dw) | 果壳 2022-12-11
     - [应对新冠，我们应该备什么药？（附：家中常备药清单](https://mp.weixin.qq.com/s/tCq0dRUtyIfDlx6dAQjWJQ) | 丁香生活研究所 2022-12-08
       - [重要提醒！新冠用药的 10 个注意事项](https://mp.weixin.qq.com/s/uVqD6y_YY3-lFPrnT4BBQw) | 丁香医生 2022-12-10
       - [为新冠准备的家庭药物中，这几个需要特别注意](https://mp.weixin.qq.com/s/-ct84KRI-hqq4uKuyPWtdg) | 果壳 2022-12-07
       - [发烧必须要吃退烧药吗？何时开始服药？专家这样建议](https://mp.weixin.qq.com/s/BIkVsAGbHkbqy2mmUPGRnA) | 第一财经 2022-12-11
+      - [发烧几度要吃药？没有药怎么办？给你一份发烧应对手册](https://mp.weixin.qq.com/s/kxAFEUIA_Fdltb7ky259Og) | 丁香医生 2022-12-13
       - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
     - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
-    - [新冠阳性家庭自述：当老人、孩子 40 度高烧，我们如何度过](https://mp.weixin.qq.com/s/exijF5kIQlpLFwvDNG2Bag) | 丁香医生 2022-12-11
-    - [铲屎官感染了新冠，家里宠物怎么办？首先，不必给它们戴口罩](https://mp.weixin.qq.com/s/4kB-5HH5ucb9Bm6XSCF5Dw) | 果壳 2022-12-11
 <br>
 
 ### 7 参考资料
@@ -314,6 +319,7 @@
     - [什么健身器械最适合看剧和堆衣服？](https://mp.weixin.qq.com/s/hgGQ3W1W0SYD1wxnAp2OSA) | 果壳 2022-12-06
     - [这个平板支撑做得好看吗？全身都错 | 果断练](https://mp.weixin.qq.com/s/64zg0wdk4nAJc4d-pONdvQ) | 果壳 2020-04-26
     - [还用仰卧起坐练腹肌？小心你的腰](https://mp.weixin.qq.com/s/aM53t0gbSHbF0WCcOM3Ung) | 果壳 2022-11-27
+    - [关于「休息」的实操大全，做不到这 6 点都是无效休息](https://mp.weixin.qq.com/s/BdxrL9tY5ti3JIVOtvxdUg)
   * 装备
     - [如果突然被通知要隔离，应该准备些什么？（附：囤货清单](https://mp.weixin.qq.com/s/az1BrnCGg3sIpQqHOuBUVQ) | 丁香医生 2022-04-09
   * 检测与诊断
