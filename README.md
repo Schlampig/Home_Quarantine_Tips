@@ -268,6 +268,7 @@
       - [面对不知何时会来的新冠阳性，你需要这份简明扼要的手册](https://mp.weixin.qq.com/s/J-7G549iotXKRwWScMFukg) | 果壳 2022-12-11
       - [新冠阳性怎么办？一份居家隔离指南](https://mp.weixin.qq.com/s/G-b4md7Ms0MD2ofeTVS-tg) | 丁香医生 2022-12-07
     - [新冠阳性家庭自述：当老人、孩子 40 度高烧，我们如何度过](https://mp.weixin.qq.com/s/exijF5kIQlpLFwvDNG2Bag) | 丁香医生 2022-12-11
+      - [@孕产妇、儿童家长、老年人、心血管疾病患者……重点人群健康管理怎么做？权威回应来了](https://mp.weixin.qq.com/s/PuMnRZezRyXYaOdPAIK-Uw) | 上海发布 2022-12-13
       - [应对新冠，孕期、有孩子家庭应该备什么药？（附：常备药清单](https://mp.weixin.qq.com/s/75QU_hWMruoECZDXmla6_Q)
       - [老人得了新冠怎么办？](https://mp.weixin.qq.com/s/MoANgw_SQM2GFGqvaMKoAg) | 丁香医生 2022-12-13
       - [孩子感染新冠怎么办？最全居家护理指南](https://mp.weixin.qq.com/s/ty0Z36ZQNLVVpVnzmZX5VQ) | 丁香医生 2022-12-11
