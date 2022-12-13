@@ -238,7 +238,6 @@
 
 ### 6 感染后应对
   * 政策时间线
-    - [收藏！上海市各区均已公布卫生健康服务咨询热线](https://mp.weixin.qq.com/s/YqY-h55ow7yyVngvyzmt0w) | 上海发布 2022-12-13
     - [行程卡下线！个人数据怎么办？三大运营商回应→](https://mp.weixin.qq.com/s/6W30myB5j6gqMwkvaebJ5Q) | 第一财经 2022-12-13
     - [我市持续优化调整相关疫情防控措施，除特定场所外，不再要求查验“随申码”扫“场所码”](https://mp.weixin.qq.com/s/tImsCPnNRE4cac1UjWCvTQ) | 上海发布 2022-12-12
     - [“通信行程卡”明日下线！](https://mp.weixin.qq.com/s/e9moTyeBXTSSZdtY302-vA) | 第一财经 2022-12-12
@@ -283,6 +282,9 @@
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
+  * 救助联系
+    - [长宁、宝山、闵行、嘉定、松江、青浦、奉贤](https://mp.weixin.qq.com/s/W1Qw86Z7pBsAfOsUzFFNXg) | 上海发布 2022-12-11
+    - [浦东、黄浦、静安、徐汇、普陀、虹口、杨浦、金山、崇明](https://mp.weixin.qq.com/s/YqY-h55ow7yyVngvyzmt0w) | 上海发布 2022-12-13
 <br>
 
 ### 7 参考资料
