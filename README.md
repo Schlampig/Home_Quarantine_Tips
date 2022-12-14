@@ -238,6 +238,7 @@
 
 ### 6 应对开放
   * 政策时间线
+    - [新冠疫苗第四针来了！接种人群、方案、时间间隔这样安排](https://mp.weixin.qq.com/s/A90n6rkFurtKwzLCPQJPwA) | 第一财经 2022-12-14
     - [行程卡下线！个人数据怎么办？三大运营商回应→](https://mp.weixin.qq.com/s/6W30myB5j6gqMwkvaebJ5Q) | 第一财经 2022-12-13
     - [我市持续优化调整相关疫情防控措施，除特定场所外，不再要求查验“随申码”扫“场所码”](https://mp.weixin.qq.com/s/tImsCPnNRE4cac1UjWCvTQ) | 上海发布 2022-12-12
     - [“通信行程卡”明日下线！](https://mp.weixin.qq.com/s/e9moTyeBXTSSZdtY302-vA) | 第一财经 2022-12-12
