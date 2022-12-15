@@ -282,10 +282,12 @@
       - [发烧必须要吃退烧药吗？何时开始服药？专家这样建议](https://mp.weixin.qq.com/s/BIkVsAGbHkbqy2mmUPGRnA) | 第一财经 2022-12-11
       - [发烧几度要吃药？没有药怎么办？给你一份发烧应对手册](https://mp.weixin.qq.com/s/kxAFEUIA_Fdltb7ky259Og) | 丁香医生 2022-12-13
       - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
-    - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
+      - [防疫需要备血氧仪吗？这几类人真有必要](https://mp.weixin.qq.com/s/t7R6xLrg8nRiVMDF8J2SBQ) | 丁香医生 2022-12-15
+      - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
+    - [「新冠肺炎」对肺部还有损伤吗？](https://mp.weixin.qq.com/s/JZ8REXaluLJeC9E4QYaifg) | 丁香医生 2022-12-15
     - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
     - [二次感染新冠会更严重么？关于重复感染的简明事实](https://mp.weixin.qq.com/s/tdawSCUKOjReHwMT9VMtqQ) | 丁香医生 2022-12-14
     - [「新冠后遗症」到底存不存在，严重吗？](https://mp.weixin.qq.com/s/coLyTQViJf3nlef69TIceA) | 丁香医生 2022-12-14
