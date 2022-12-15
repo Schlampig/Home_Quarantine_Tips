@@ -237,7 +237,8 @@
 <br>
 
 ### 6 应对开放
-  * 政策时间线
+  * 时间线
+    - [乡村新冠患者就诊实录：镇医院床位不足百张，药店退烧药断货](https://mp.weixin.qq.com/s/RY_4u6QKXXqKz6utAv2NMA) | 第一财经 2022-12-14
     - [新冠疫苗第四针来了！接种人群、方案、时间间隔这样安排](https://mp.weixin.qq.com/s/A90n6rkFurtKwzLCPQJPwA) | 第一财经 2022-12-14
     - [行程卡下线！个人数据怎么办？三大运营商回应→](https://mp.weixin.qq.com/s/6W30myB5j6gqMwkvaebJ5Q) | 第一财经 2022-12-13
     - [我市持续优化调整相关疫情防控措施，除特定场所外，不再要求查验“随申码”扫“场所码”](https://mp.weixin.qq.com/s/tImsCPnNRE4cac1UjWCvTQ) | 上海发布 2022-12-12
@@ -253,7 +254,8 @@
     - [多地发通知：11月起核酸检测要收费了](https://mp.weixin.qq.com/s/YfrMyFrZjNNtt514HvOUSQ) | 第一财经 2022-11-02
   * 预防，自测，选择（居家or就医）
     - [新冠疫苗加强针，还有必要打吗？](https://mp.weixin.qq.com/s/84dVxEjvp4w8bO2ZOmxJQg) | 丁香医生 2022-12-12
-      - [吸入式新冠疫苗是什么？适合谁打？](https://mp.weixin.qq.com/s/hEtb928gVAl0UpDYVpIBUw)
+      - [吸入式新冠疫苗是什么？适合谁打？](https://mp.weixin.qq.com/s/hEtb928gVAl0UpDYVpIBUw) | 丁香医生 2022-12-13
+      - [新冠疫苗接种攻略！一图讲清第一针、加强针、第四针打哪个好](https://mp.weixin.qq.com/s/hAQjduFQdgI-DzlnfS55hg) | 丁香医生 2022-12-15
     - [不把新冠带进家，学会这个大原则就够了](https://mp.weixin.qq.com/s/imf7PkF42v2pDLv1Xit7iw) | 果壳 2022-12-09
       - [家里有人阳了，怎么避免传染？超详细指导手册来了](https://mp.weixin.qq.com/s/kE-ELDhxeoFSzhNpJwJZxQ) | 丁香医生 2022-12-12
       - [身边人阳了，但这样消毒根本没用！（看看你中招没 ）](https://mp.weixin.qq.com/s/TngYIuFwEVHRxUgGJWZI0Q) | 果壳 2022-12-12
@@ -275,7 +277,7 @@
       - [孩子感染新冠怎么办？最全居家护理指南](https://mp.weixin.qq.com/s/ty0Z36ZQNLVVpVnzmZX5VQ) | 丁香医生 2022-12-11
       - [铲屎官感染了新冠，家里宠物怎么办？首先，不必给它们戴口罩](https://mp.weixin.qq.com/s/4kB-5HH5ucb9Bm6XSCF5Dw) | 果壳 2022-12-11
     - [应对新冠，我们应该备什么药？（附：家中常备药清单](https://mp.weixin.qq.com/s/tCq0dRUtyIfDlx6dAQjWJQ) | 丁香生活研究所 2022-12-08
-      - [重要提醒！新冠用药的 10 个注意事项](https://mp.weixin.qq.com/s/uVqD6y_YY3-lFPrnT4BBQw) | 丁香医生 2022-12-10
+      - [重要提醒！新冠用药的 10 个注意事项](https://mp.weixin.qq.com/s/uVqD6y_YY3-lFPrnT4BBQw) | 丁香医生 2022-12-10 [v2](https://mp.weixin.qq.com/s/5RnLCmazbqmc0I2-XhPHSQ)
       - [为新冠准备的家庭药物中，这几个需要特别注意](https://mp.weixin.qq.com/s/-ct84KRI-hqq4uKuyPWtdg) | 果壳 2022-12-07
       - [发烧必须要吃退烧药吗？何时开始服药？专家这样建议](https://mp.weixin.qq.com/s/BIkVsAGbHkbqy2mmUPGRnA) | 第一财经 2022-12-11
       - [发烧几度要吃药？没有药怎么办？给你一份发烧应对手册](https://mp.weixin.qq.com/s/kxAFEUIA_Fdltb7ky259Og) | 丁香医生 2022-12-13
@@ -284,7 +286,9 @@
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
+    - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
     - [二次感染新冠会更严重么？关于重复感染的简明事实](https://mp.weixin.qq.com/s/tdawSCUKOjReHwMT9VMtqQ) | 丁香医生 2022-12-14
+    - [「新冠后遗症」到底存不存在，严重吗？](https://mp.weixin.qq.com/s/coLyTQViJf3nlef69TIceA) | 丁香医生 2022-12-14
   * 救助联系
     - [收藏！上海市各级医疗机构健康服务咨询热线汇总](https://mp.weixin.qq.com/s/zqdJvzejOuRuvc442yE4kA) |上海发布 2022-12-14
     - [浦东、黄浦、静安、徐汇、普陀、虹口、杨浦、金山、崇明](https://mp.weixin.qq.com/s/YqY-h55ow7yyVngvyzmt0w) | 上海发布 2022-12-13
