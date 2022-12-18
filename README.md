@@ -273,10 +273,11 @@
     - [新冠阳性家庭自述：当老人、孩子 40 度高烧，我们如何度过](https://mp.weixin.qq.com/s/exijF5kIQlpLFwvDNG2Bag) | 丁香医生 2022-12-11
       - [@孕产妇、儿童家长、老年人、心血管疾病患者……重点人群健康管理怎么做？权威回应来了](https://mp.weixin.qq.com/s/PuMnRZezRyXYaOdPAIK-Uw) | 上海发布 2022-12-13
       - [应对新冠，孕期、有孩子家庭应该备什么药？（附：常备药清单](https://mp.weixin.qq.com/s/75QU_hWMruoECZDXmla6_Q)
-      - [老人得了新冠怎么办？](https://mp.weixin.qq.com/s/MoANgw_SQM2GFGqvaMKoAg) | 丁香医生 2022-12-13
+      - [孕产妇感染新冠怎么办？会影响胎儿吗？最全防护攻略来了](https://mp.weixin.qq.com/s/kVzSMojqI4chaCTeDekr2A) | 丁香医生 2022-12-18
       - [孩子感染新冠怎么办？最全居家护理指南](https://mp.weixin.qq.com/s/ty0Z36ZQNLVVpVnzmZX5VQ) | 丁香医生 2022-12-11
       - [重要提醒！孩子新冠用药，这 6 个方式都是错的](https://mp.weixin.qq.com/s/0RHaefofMESJB_XC2hjtOA) | 丁香医生 2022-12-15
       - [儿童发烧除了“布洛芬”还有哪些方法？专家来支招](https://mp.weixin.qq.com/s/NeYcJeDBkP7WgqQbE-Dv5w) | 上海发布 2022-12-15
+      - [老人得了新冠怎么办？](https://mp.weixin.qq.com/s/MoANgw_SQM2GFGqvaMKoAg) | 丁香医生 2022-12-13
       - [铲屎官感染了新冠，家里宠物怎么办？首先，不必给它们戴口罩](https://mp.weixin.qq.com/s/4kB-5HH5ucb9Bm6XSCF5Dw) | 果壳 2022-12-11
     - [应对新冠，我们应该备什么药？（附：家中常备药清单](https://mp.weixin.qq.com/s/tCq0dRUtyIfDlx6dAQjWJQ) | 丁香生活研究所 2022-12-08
       - [重要提醒！新冠用药的 10 个注意事项](https://mp.weixin.qq.com/s/uVqD6y_YY3-lFPrnT4BBQw) | 丁香医生 2022-12-10 [v2](https://mp.weixin.qq.com/s/5RnLCmazbqmc0I2-XhPHSQ)
