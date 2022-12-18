@@ -300,6 +300,8 @@
     - [浦东、黄浦、静安、徐汇、普陀、虹口、杨浦、金山、崇明](https://mp.weixin.qq.com/s/YqY-h55ow7yyVngvyzmt0w) | 上海发布 2022-12-13
     - [长宁、宝山、闵行、嘉定、松江、青浦、奉贤](https://mp.weixin.qq.com/s/W1Qw86Z7pBsAfOsUzFFNXg) | 上海发布 2022-12-11
     - [方便市民在线获得健康咨询、就医配药等服务，上海互联网医院名单及登录方式一览→](https://mp.weixin.qq.com/s/0JKAJ3LAWxCXv0JadM65Xg) | 上海发布 2022-12-16
+  * 工具
+    - [防疫物资、新冠门诊、家庭防疫手册都来了！一起新冠退退退](https://mp.weixin.qq.com/s/p-4JbDKZEUoUkDPhvhDozw) | 丁香生活研究所 2022-12-18
   * 其他报道
     - [五位养老院院长自述：抢不到抗原药品、拨不通急救电话、缺乏医疗应急预案](https://mp.weixin.qq.com/s/129tRPZeVrpQCdptIHcqWg) | 经济观察报 2022-12-15
     - [乡村新冠患者就诊实录：镇医院床位不足百张，药店退烧药断货](https://mp.weixin.qq.com/s/RY_4u6QKXXqKz6utAv2NMA) | 第一财经 2022-12-14
