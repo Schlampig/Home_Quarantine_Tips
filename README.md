@@ -274,6 +274,7 @@
       - [@孕产妇、儿童家长、老年人、心血管疾病患者……重点人群健康管理怎么做？权威回应来了](https://mp.weixin.qq.com/s/PuMnRZezRyXYaOdPAIK-Uw) | 上海发布 2022-12-13
       - [应对新冠，孕期、有孩子家庭应该备什么药？（附：常备药清单](https://mp.weixin.qq.com/s/75QU_hWMruoECZDXmla6_Q)
       - [孕产妇感染新冠怎么办？会影响胎儿吗？最全防护攻略来了](https://mp.weixin.qq.com/s/kVzSMojqI4chaCTeDekr2A) | 丁香医生 2022-12-18
+      - [感染新冠后多久可以怀孕？疫情期间备孕，一定要知道的 5 件事](https://mp.weixin.qq.com/s/W1R9_ZtvVnFkG2KWg5nHtQ) | 丁香妈妈 2022-12-18
       - [孩子感染新冠怎么办？最全居家护理指南](https://mp.weixin.qq.com/s/ty0Z36ZQNLVVpVnzmZX5VQ) | 丁香医生 2022-12-11
       - [重要提醒！孩子新冠用药，这 6 个方式都是错的](https://mp.weixin.qq.com/s/0RHaefofMESJB_XC2hjtOA) | 丁香医生 2022-12-15
       - [儿童发烧除了“布洛芬”还有哪些方法？专家来支招](https://mp.weixin.qq.com/s/NeYcJeDBkP7WgqQbE-Dv5w) | 上海发布 2022-12-15
