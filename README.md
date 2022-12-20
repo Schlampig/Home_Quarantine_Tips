@@ -238,6 +238,7 @@
 
 ### 6 应对开放
   * 时间线
+    - [直击上海社区发热诊间：医生到位了，居民来了，发热诊疗药品正向社区倾斜](https://mp.weixin.qq.com/s/qRo7E7wEs8RFSZE7hn_NcA) | 上海发布 2022-12-19
     - [新冠疫苗第四针来了！接种人群、方案、时间间隔这样安排](https://mp.weixin.qq.com/s/A90n6rkFurtKwzLCPQJPwA) | 第一财经 2022-12-14
     - [行程卡下线！个人数据怎么办？三大运营商回应→](https://mp.weixin.qq.com/s/6W30myB5j6gqMwkvaebJ5Q) | 第一财经 2022-12-13
     - [我市持续优化调整相关疫情防控措施，除特定场所外，不再要求查验“随申码”扫“场所码”](https://mp.weixin.qq.com/s/tImsCPnNRE4cac1UjWCvTQ) | 上海发布 2022-12-12
@@ -270,6 +271,7 @@
     - [【便民】新冠病毒感染者居家指引（第一版）发布](https://mp.weixin.qq.com/s/2v0PgaiSd6O_8QVWIH6t_g) | 上海发布 2022-12-13
       - [面对不知何时会来的新冠阳性，你需要这份简明扼要的手册](https://mp.weixin.qq.com/s/J-7G549iotXKRwWScMFukg) | 果壳 2022-12-11
       - [新冠阳性怎么办？一份居家隔离指南](https://mp.weixin.qq.com/s/G-b4md7Ms0MD2ofeTVS-tg) | 丁香医生 2022-12-07
+      - [居家隔离，来自医生的十条建议](https://mp.weixin.qq.com/s/HA4YaMh6Pvt1Jnr1-ri8jw) | 复旦大学附属中山医院 2022-12-19
     - [新冠阳性家庭自述：当老人、孩子 40 度高烧，我们如何度过](https://mp.weixin.qq.com/s/exijF5kIQlpLFwvDNG2Bag) | 丁香医生 2022-12-11
       - [@孕产妇、儿童家长、老年人、心血管疾病患者……重点人群健康管理怎么做？权威回应来了](https://mp.weixin.qq.com/s/PuMnRZezRyXYaOdPAIK-Uw) | 上海发布 2022-12-13
       - [应对新冠，孕期、有孩子家庭应该备什么药？（附：常备药清单](https://mp.weixin.qq.com/s/75QU_hWMruoECZDXmla6_Q)
@@ -285,6 +287,7 @@
       - [为新冠准备的家庭药物中，这几个需要特别注意](https://mp.weixin.qq.com/s/-ct84KRI-hqq4uKuyPWtdg) | 果壳 2022-12-07
       - [发烧必须要吃退烧药吗？何时开始服药？专家这样建议](https://mp.weixin.qq.com/s/BIkVsAGbHkbqy2mmUPGRnA) | 第一财经 2022-12-11
       - [发烧几度要吃药？没有药怎么办？给你一份发烧应对手册](https://mp.weixin.qq.com/s/kxAFEUIA_Fdltb7ky259Og) | 丁香医生 2022-12-13
+      - [买不到退烧药怎么办？这些应急方法可以考虑一下](https://mp.weixin.qq.com/s/af5t1ak13fl3ETHtlNc-0A) | 丁香妈妈 2022-12-19
       - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
       - [防疫需要备血氧仪吗？这几类人真有必要](https://mp.weixin.qq.com/s/t7R6xLrg8nRiVMDF8J2SBQ) | 丁香医生 2022-12-15
     - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
@@ -297,14 +300,19 @@
     - [二次感染新冠会更严重么？关于重复感染的简明事实](https://mp.weixin.qq.com/s/tdawSCUKOjReHwMT9VMtqQ) | 丁香医生 2022-12-14
     - [「新冠后遗症」到底存不存在，严重吗？](https://mp.weixin.qq.com/s/coLyTQViJf3nlef69TIceA) | 丁香医生 2022-12-14
     - [脑雾是新冠的后遗症吗？](https://mp.weixin.qq.com/s/0dgvdm5KykJDNniUpdOXsg) | 丁香医生 2022-12-15
-  * 救助联系
+  * 救助联系（上海）
     - [收藏！上海市各级医疗机构健康服务咨询热线汇总](https://mp.weixin.qq.com/s/zqdJvzejOuRuvc442yE4kA) |上海发布 2022-12-14
     - [浦东、黄浦、静安、徐汇、普陀、虹口、杨浦、金山、崇明](https://mp.weixin.qq.com/s/YqY-h55ow7yyVngvyzmt0w) | 上海发布 2022-12-13
     - [长宁、宝山、闵行、嘉定、松江、青浦、奉贤](https://mp.weixin.qq.com/s/W1Qw86Z7pBsAfOsUzFFNXg) | 上海发布 2022-12-11
     - [方便市民在线获得健康咨询、就医配药等服务，上海互联网医院名单及登录方式一览→](https://mp.weixin.qq.com/s/0JKAJ3LAWxCXv0JadM65Xg) | 上海发布 2022-12-16
+    - [上海市二级以上医疗机构发热门诊一览](https://mp.weixin.qq.com/s/mYOo0C9m6uqexl7z8pIb6g) | 健康上海12320 2022-12-20
+    - [上海市各大互联网医院入口汇总，可就医配药、开具新冠处方](https://mp.weixin.qq.com/s/KaXcL0fh5zFlBICmwcRlkw) | 健康上海12320 2022-12-18
   * 工具
     - [防疫物资、新冠门诊、家庭防疫手册都来了！一起新冠退退退](https://mp.weixin.qq.com/s/p-4JbDKZEUoUkDPhvhDozw) | 丁香生活研究所 2022-12-18
   * 其他报道
+    - [防疫工具退役了，没有人怀念它](https://mp.weixin.qq.com/s/giPAUJMaQOvHTuNOP1mkjQ) | 好奇心日报 2022-12-19
+    - [当 60 岁老人和她 90 岁的爸妈同时感染新冠](https://mp.weixin.qq.com/s/pIKef-1CMy6lI0gfi-bcww) | 丁香医生 2022-12-19
+    - [封控放开后，肿瘤患者面临双重困境](https://mp.weixin.qq.com/s/t0lupZ-wVTpc4dQSabkW5Q) | 财新网 2022-12-19
     - [五位养老院院长自述：抢不到抗原药品、拨不通急救电话、缺乏医疗应急预案](https://mp.weixin.qq.com/s/129tRPZeVrpQCdptIHcqWg) | 经济观察报 2022-12-15
     - [乡村新冠患者就诊实录：镇医院床位不足百张，药店退烧药断货](https://mp.weixin.qq.com/s/RY_4u6QKXXqKz6utAv2NMA) | 第一财经 2022-12-14
 <br>
@@ -354,5 +362,6 @@
     - [买不到新冠抗原试剂盒，该怎么办？](https://mp.weixin.qq.com/s/TzWVuJ1eh04RgoV7X6Lz0w) | 丁香医生 2022-12-10
     - [喝完可乐做新冠抗原测试，阳了？很可能是你没操作对](https://mp.weixin.qq.com/s/v3UiSahQxbcXCxr-CaIj2Q) | 果壳 2022-04-25
     - [抗原检测为啥是红杠？相同的原理还可能检测家里酒的年龄](https://mp.weixin.qq.com/s/-b2NhBJ330qu5WvFiXhxRQ) | 环球科学 2022-12-11
+    - [明明很难受了，为啥抗原还是阴的？](https://mp.weixin.qq.com/s/S_rYIdpG_SoyMGlvTTo-Pg) | 丁香医生 2022-12-19
     - [有些体检指标异常不是病，专家教你读懂体检报告](https://mp.weixin.qq.com/s/6rJhzpUkI5aXKAIPkXIbgQ) | 丁香医生 2022-11-20
     - [医生总让人拍片子，但看的到底是啥？](https://mp.weixin.qq.com/s/OLf47Bo1HZPEKS_oAQG41g) | 丁香医生 2022-10-28
