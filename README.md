@@ -238,6 +238,7 @@
 
 ### 6 应对开放
   * 时间线
+    - [即日起本市各医疗机构对门急诊患者不再查验核酸阴性证明](https://mp.weixin.qq.com/s/Ja7tE0W3XAmRC4NTZ7sDvQ) | 上海发布 2022-12-20
     - [直击上海社区发热诊间：医生到位了，居民来了，发热诊疗药品正向社区倾斜](https://mp.weixin.qq.com/s/qRo7E7wEs8RFSZE7hn_NcA) | 上海发布 2022-12-19
     - [新冠疫苗第四针来了！接种人群、方案、时间间隔这样安排](https://mp.weixin.qq.com/s/A90n6rkFurtKwzLCPQJPwA) | 第一财经 2022-12-14
     - [行程卡下线！个人数据怎么办？三大运营商回应→](https://mp.weixin.qq.com/s/6W30myB5j6gqMwkvaebJ5Q) | 第一财经 2022-12-13
@@ -294,12 +295,14 @@
       - [防疫需要备血氧仪吗？这几类人真有必要](https://mp.weixin.qq.com/s/t7R6xLrg8nRiVMDF8J2SBQ) | 丁香医生 2022-12-15
     - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
+    - [阳过后，家里如何消毒？给你一份实用操作指南](https://mp.weixin.qq.com/s/pZha_RL7JkR1fqxPjGUP3w) | 丁香医生 2022-12-20
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
     - [「新冠肺炎」对肺部还有损伤吗？](https://mp.weixin.qq.com/s/JZ8REXaluLJeC9E4QYaifg) | 丁香医生 2022-12-15
     - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
     - [二次感染新冠会更严重么？关于重复感染的简明事实](https://mp.weixin.qq.com/s/tdawSCUKOjReHwMT9VMtqQ) | 丁香医生 2022-12-14
+    - [新冠感染多久能产生抗体？“二次感染”和哪些因素有关？](https://mp.weixin.qq.com/s/Aqb3WK4XSWqiXbmi3Bg1MA) | 第一财经 2022-12-20
     - [「新冠后遗症」到底存不存在，严重吗？](https://mp.weixin.qq.com/s/coLyTQViJf3nlef69TIceA) | 丁香医生 2022-12-14
     - [脑雾是新冠的后遗症吗？](https://mp.weixin.qq.com/s/0dgvdm5KykJDNniUpdOXsg) | 丁香医生 2022-12-15
   * 救助联系（上海）
