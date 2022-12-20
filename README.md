@@ -289,6 +289,7 @@
       - [发烧几度要吃药？没有药怎么办？给你一份发烧应对手册](https://mp.weixin.qq.com/s/kxAFEUIA_Fdltb7ky259Og) | 丁香医生 2022-12-13
       - [买不到退烧药怎么办？这些应急方法可以考虑一下](https://mp.weixin.qq.com/s/af5t1ak13fl3ETHtlNc-0A) | 丁香妈妈 2022-12-19
       - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
+      - [感染后咳嗽怎么办？超详细止咳方法](https://mp.weixin.qq.com/s/WWCfk10vtyenlNaQPZYE6g) | 丁香医生 2022-12-20
       - [防疫需要备血氧仪吗？这几类人真有必要](https://mp.weixin.qq.com/s/t7R6xLrg8nRiVMDF8J2SBQ) | 丁香医生 2022-12-15
     - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
@@ -307,6 +308,7 @@
     - [方便市民在线获得健康咨询、就医配药等服务，上海互联网医院名单及登录方式一览→](https://mp.weixin.qq.com/s/0JKAJ3LAWxCXv0JadM65Xg) | 上海发布 2022-12-16
     - [上海市二级以上医疗机构发热门诊一览](https://mp.weixin.qq.com/s/mYOo0C9m6uqexl7z8pIb6g) | 健康上海12320 2022-12-20
     - [上海市各大互联网医院入口汇总，可就医配药、开具新冠处方](https://mp.weixin.qq.com/s/KaXcL0fh5zFlBICmwcRlkw) | 健康上海12320 2022-12-18
+    - [上海线上买药平台汇总！定好闹钟！10点、12点、16点、20点开售！](https://mp.weixin.qq.com/s/p7K6oECNckmTMr6U69XvnQ) | 上海本地宝 2022-12-20
   * 工具
     - [防疫物资、新冠门诊、家庭防疫手册都来了！一起新冠退退退](https://mp.weixin.qq.com/s/p-4JbDKZEUoUkDPhvhDozw) | 丁香生活研究所 2022-12-18
   * 其他报道
