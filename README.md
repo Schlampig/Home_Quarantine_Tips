@@ -238,6 +238,8 @@
 
 ### 6 应对开放
   * 时间线
+    - [抗原去哪了？药店限购、缺货 渠道囤货需求旺盛](https://mp.weixin.qq.com/s/HA7ykYAGVcP0knvog3QCBA) | 财新网 2022-12-21
+    - [多地开打“第四针”：各接种点剂种不同，“阳康”人群要打吗](https://mp.weixin.qq.com/s/rUQhZ7eaeAQ8hztGroJx1A) | 第一财经 2022-12-21
     - [即日起本市各医疗机构对门急诊患者不再查验核酸阴性证明](https://mp.weixin.qq.com/s/Ja7tE0W3XAmRC4NTZ7sDvQ) | 上海发布 2022-12-20
     - [直击上海社区发热诊间：医生到位了，居民来了，发热诊疗药品正向社区倾斜](https://mp.weixin.qq.com/s/qRo7E7wEs8RFSZE7hn_NcA) | 上海发布 2022-12-19
     - [新冠疫苗第四针来了！接种人群、方案、时间间隔这样安排](https://mp.weixin.qq.com/s/A90n6rkFurtKwzLCPQJPwA) | 第一财经 2022-12-14
@@ -296,6 +298,7 @@
     - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
     - [阳过后，家里如何消毒？给你一份实用操作指南](https://mp.weixin.qq.com/s/pZha_RL7JkR1fqxPjGUP3w) | 丁香医生 2022-12-20
+      - [“阳康”后15天才能产生抗体？转阴后能照顾阳性家人吗？](https://mp.weixin.qq.com/s/zZa-czvTU0oZg3A2CuESuA) | 上海市消保委 2022-12-21
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
