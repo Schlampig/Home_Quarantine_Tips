@@ -292,6 +292,7 @@
       - [发烧必须要吃退烧药吗？何时开始服药？专家这样建议](https://mp.weixin.qq.com/s/BIkVsAGbHkbqy2mmUPGRnA) | 第一财经 2022-12-11
       - [发烧几度要吃药？没有药怎么办？给你一份发烧应对手册](https://mp.weixin.qq.com/s/kxAFEUIA_Fdltb7ky259Og) | 丁香医生 2022-12-13
       - [买不到退烧药怎么办？这些应急方法可以考虑一下](https://mp.weixin.qq.com/s/af5t1ak13fl3ETHtlNc-0A) | 丁香妈妈 2022-12-19
+      - [买不到布洛芬、对乙酰氨基酚，怎么办？](https://mp.weixin.qq.com/s/PDALXWw69X4gQOKoWSVVDA) | 丁香医生 2022-12-21
       - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
       - [感染后咳嗽怎么办？超详细止咳方法](https://mp.weixin.qq.com/s/WWCfk10vtyenlNaQPZYE6g) | 丁香医生 2022-12-20
       - [防疫需要备血氧仪吗？这几类人真有必要](https://mp.weixin.qq.com/s/t7R6xLrg8nRiVMDF8J2SBQ) | 丁香医生 2022-12-15
