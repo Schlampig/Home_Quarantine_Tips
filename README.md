@@ -284,6 +284,7 @@
       - [孩子感染新冠怎么办？最全居家护理指南](https://mp.weixin.qq.com/s/ty0Z36ZQNLVVpVnzmZX5VQ) | 丁香医生 2022-12-11
       - [重要提醒！孩子新冠用药，这 6 个方式都是错的](https://mp.weixin.qq.com/s/0RHaefofMESJB_XC2hjtOA) | 丁香医生 2022-12-15
       - [儿童发烧除了“布洛芬”还有哪些方法？专家来支招](https://mp.weixin.qq.com/s/NeYcJeDBkP7WgqQbE-Dv5w) | 上海发布 2022-12-15
+      - [新生儿和 1～3 月龄宝宝不能吃药，如何应对新冠？](https://mp.weixin.qq.com/s/VZZU1ZMFLfjVsNLH_35amQ) | 丁香妈妈 2022-12-21
       - [老人得了新冠怎么办？](https://mp.weixin.qq.com/s/MoANgw_SQM2GFGqvaMKoAg) | 丁香医生 2022-12-13
       - [铲屎官感染了新冠，家里宠物怎么办？首先，不必给它们戴口罩](https://mp.weixin.qq.com/s/4kB-5HH5ucb9Bm6XSCF5Dw) | 果壳 2022-12-11
     - [应对新冠，我们应该备什么药？（附：家中常备药清单](https://mp.weixin.qq.com/s/tCq0dRUtyIfDlx6dAQjWJQ) | 丁香生活研究所 2022-12-08
