@@ -300,6 +300,7 @@
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
     - [阳过后，家里如何消毒？给你一份实用操作指南](https://mp.weixin.qq.com/s/pZha_RL7JkR1fqxPjGUP3w) | 丁香医生 2022-12-20
       - [“阳康”后15天才能产生抗体？转阴后能照顾阳性家人吗？](https://mp.weixin.qq.com/s/zZa-czvTU0oZg3A2CuESuA) | 上海市消保委 2022-12-21
+      - [转阴后要给家里消杀吗？能运动吗？要换牙刷吗？](https://mp.weixin.qq.com/s/Qq8yDxtQZv9X6YU0_sgItg) | 果壳 2022-12-21
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
