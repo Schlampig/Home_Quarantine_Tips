@@ -295,6 +295,7 @@
       - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
       - [感染后咳嗽怎么办？超详细止咳方法](https://mp.weixin.qq.com/s/WWCfk10vtyenlNaQPZYE6g) | 丁香医生 2022-12-20
       - [防疫需要备血氧仪吗？这几类人真有必要](https://mp.weixin.qq.com/s/t7R6xLrg8nRiVMDF8J2SBQ) | 丁香医生 2022-12-15
+      - [佩戴N95口罩会影响心肺功能吗？](https://mp.weixin.qq.com/s/wbhqHAQEKvqgFf77jUdlMw) | 上海疾控 2022-12-21
     - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
     - [阳过后，家里如何消毒？给你一份实用操作指南](https://mp.weixin.qq.com/s/pZha_RL7JkR1fqxPjGUP3w) | 丁香医生 2022-12-20
