@@ -300,9 +300,11 @@
       - [佩戴N95口罩会影响心肺功能吗？](https://mp.weixin.qq.com/s/wbhqHAQEKvqgFf77jUdlMw) | 上海疾控 2022-12-21
     - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
+      - [浑身疼，刀片嗓，吃不下饭可不行](https://mp.weixin.qq.com/s/9CSl1a8G3GvNAGTo1tJx_Q) | 上海疾控 2022-12-22
     - [阳过后，家里如何消毒？给你一份实用操作指南](https://mp.weixin.qq.com/s/pZha_RL7JkR1fqxPjGUP3w) | 丁香医生 2022-12-20
       - [“阳康”后15天才能产生抗体？转阴后能照顾阳性家人吗？](https://mp.weixin.qq.com/s/zZa-czvTU0oZg3A2CuESuA) | 上海市消保委 2022-12-21
       - [转阴后要给家里消杀吗？能运动吗？要换牙刷吗？](https://mp.weixin.qq.com/s/Qq8yDxtQZv9X6YU0_sgItg) | 果壳 2022-12-21
+      - [阳康后能洗澡吗？能运动吗？13 个你最关心的生活问题](https://mp.weixin.qq.com/s/-DEvsYHXk807ZlJkp0z1vQ) | 丁香医生 2022-12-22
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
@@ -312,6 +314,7 @@
     - [新冠感染多久能产生抗体？“二次感染”和哪些因素有关？](https://mp.weixin.qq.com/s/Aqb3WK4XSWqiXbmi3Bg1MA) | 第一财经 2022-12-20
     - [「新冠后遗症」到底存不存在，严重吗？](https://mp.weixin.qq.com/s/coLyTQViJf3nlef69TIceA) | 丁香医生 2022-12-14
     - [脑雾是新冠的后遗症吗？](https://mp.weixin.qq.com/s/0dgvdm5KykJDNniUpdOXsg) | 丁香医生 2022-12-15
+    - [止疼药吃多了，会不会变傻或上瘾？](https://mp.weixin.qq.com/s/JXxRDAf2Fl77dwSNY3lrVQ) | 果壳 2022-12-22
   * 救助联系（上海）
     - [收藏！上海市各级医疗机构健康服务咨询热线汇总](https://mp.weixin.qq.com/s/zqdJvzejOuRuvc442yE4kA) |上海发布 2022-12-14
     - [浦东、黄浦、静安、徐汇、普陀、虹口、杨浦、金山、崇明](https://mp.weixin.qq.com/s/YqY-h55ow7yyVngvyzmt0w) | 上海发布 2022-12-13
@@ -323,6 +326,8 @@
   * 工具
     - [防疫物资、新冠门诊、家庭防疫手册都来了！一起新冠退退退](https://mp.weixin.qq.com/s/p-4JbDKZEUoUkDPhvhDozw) | 丁香生活研究所 2022-12-18
   * 其他报道
+    - [入境隔离放开，不应“犹抱琵琶半遮面”](https://mp.weixin.qq.com/s/aQyhDsSIkbCxxIhIPKRGIA) | 财新网 2022-12-22
+    - [该不该去酒店“抗阳”？部分酒店推出千元“隔离套餐”，警惕高烧无人照顾](https://mp.weixin.qq.com/s/a7bRTZMqiWYOgPeWLB1Csg) | 第一财经 2022-12-22
     - [防疫工具退役了，没有人怀念它](https://mp.weixin.qq.com/s/giPAUJMaQOvHTuNOP1mkjQ) | 好奇心日报 2022-12-19
     - [当 60 岁老人和她 90 岁的爸妈同时感染新冠](https://mp.weixin.qq.com/s/pIKef-1CMy6lI0gfi-bcww) | 丁香医生 2022-12-19
     - [封控放开后，肿瘤患者面临双重困境](https://mp.weixin.qq.com/s/t0lupZ-wVTpc4dQSabkW5Q) | 财新网 2022-12-19
