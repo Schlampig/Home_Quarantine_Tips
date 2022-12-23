@@ -294,6 +294,7 @@
       - [发烧几度要吃药？没有药怎么办？给你一份发烧应对手册](https://mp.weixin.qq.com/s/kxAFEUIA_Fdltb7ky259Og) | 丁香医生 2022-12-13
       - [买不到退烧药怎么办？这些应急方法可以考虑一下](https://mp.weixin.qq.com/s/af5t1ak13fl3ETHtlNc-0A) | 丁香妈妈 2022-12-19
       - [买不到布洛芬、对乙酰氨基酚，怎么办？](https://mp.weixin.qq.com/s/PDALXWw69X4gQOKoWSVVDA) | 丁香医生 2022-12-21
+      - [布洛芬缓释，不能退烧吗？](https://mp.weixin.qq.com/s/RD76VxAKRxdtY4ORhSDi5A) | 丁香医生 2022-12-23
       - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
       - [感染后咳嗽怎么办？超详细止咳方法](https://mp.weixin.qq.com/s/WWCfk10vtyenlNaQPZYE6g) | 丁香医生 2022-12-20
       - [「水泥封鼻」有救了！鼻塞超详细缓解手册](https://mp.weixin.qq.com/s/zT9Uyke7Lh5ES53pa-MzvQ) | 丁香医生 2022-12-22
@@ -309,13 +310,14 @@
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
-    - [「新冠肺炎」对肺部还有损伤吗？](https://mp.weixin.qq.com/s/JZ8REXaluLJeC9E4QYaifg) | 丁香医生 2022-12-15
     - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
     - [二次感染新冠会更严重么？关于重复感染的简明事实](https://mp.weixin.qq.com/s/tdawSCUKOjReHwMT9VMtqQ) | 丁香医生 2022-12-14
-    - [新冠感染多久能产生抗体？“二次感染”和哪些因素有关？](https://mp.weixin.qq.com/s/Aqb3WK4XSWqiXbmi3Bg1MA) | 第一财经 2022-12-20
     - [「新冠后遗症」到底存不存在，严重吗？](https://mp.weixin.qq.com/s/coLyTQViJf3nlef69TIceA) | 丁香医生 2022-12-14
+    - [「新冠肺炎」对肺部还有损伤吗？](https://mp.weixin.qq.com/s/JZ8REXaluLJeC9E4QYaifg) | 丁香医生 2022-12-15
     - [脑雾是新冠的后遗症吗？](https://mp.weixin.qq.com/s/0dgvdm5KykJDNniUpdOXsg) | 丁香医生 2022-12-15
+    - [新冠感染多久能产生抗体？“二次感染”和哪些因素有关？](https://mp.weixin.qq.com/s/Aqb3WK4XSWqiXbmi3Bg1MA) | 第一财经 2022-12-20
     - [止疼药吃多了，会不会变傻或上瘾？](https://mp.weixin.qq.com/s/JXxRDAf2Fl77dwSNY3lrVQ) | 果壳 2022-12-22
+    - [高烧、咳嗽、酸痛、放屁…病毒究竟在你体内祸祸啥？](https://mp.weixin.qq.com/s/jUH9-n7nq3aeIVEj2KNMzg) | 混知 2022-12-23
   * 救助联系（上海）
     - [收藏！上海市各级医疗机构健康服务咨询热线汇总](https://mp.weixin.qq.com/s/zqdJvzejOuRuvc442yE4kA) |上海发布 2022-12-14
     - [浦东、黄浦、静安、徐汇、普陀、虹口、杨浦、金山、崇明](https://mp.weixin.qq.com/s/YqY-h55ow7yyVngvyzmt0w) | 上海发布 2022-12-13
@@ -327,6 +329,7 @@
   * 工具
     - [防疫物资、新冠门诊、家庭防疫手册都来了！一起新冠退退退](https://mp.weixin.qq.com/s/p-4JbDKZEUoUkDPhvhDozw) | 丁香生活研究所 2022-12-18
   * 其他报道
+    - [“放开”之后，经历感染高峰的最难一届考研人](https://mp.weixin.qq.com/s/zeIlroGGE15a_59xXR079g) | 三联生活周刊 2022-12-22
     - [为什么连医院都买不到退烧药？](https://mp.weixin.qq.com/s/bd8Qty5gAEi1tT-W33n5Qg) | 科学公园 2022-12-22
     - [入境隔离放开，不应“犹抱琵琶半遮面”](https://mp.weixin.qq.com/s/aQyhDsSIkbCxxIhIPKRGIA) | 财新网 2022-12-22
     - [该不该去酒店“抗阳”？部分酒店推出千元“隔离套餐”，警惕高烧无人照顾](https://mp.weixin.qq.com/s/a7bRTZMqiWYOgPeWLB1Csg) | 第一财经 2022-12-22
