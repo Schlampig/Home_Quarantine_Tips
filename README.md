@@ -238,6 +238,7 @@
 
 ### 6 应对开放
   * 时间线
+    - [海量健康码数据处理：如何明确责任主体，直接删除？](https://mp.weixin.qq.com/s/b9pvm5F6_-aF2guNdLU-0A) | 财新网 2022-12-23
     - [抗原去哪了？药店限购、缺货 渠道囤货需求旺盛](https://mp.weixin.qq.com/s/HA7ykYAGVcP0knvog3QCBA) | 财新网 2022-12-21
     - [多地开打“第四针”：各接种点剂种不同，“阳康”人群要打吗](https://mp.weixin.qq.com/s/rUQhZ7eaeAQ8hztGroJx1A) | 第一财经 2022-12-21
     - [即日起本市各医疗机构对门急诊患者不再查验核酸阴性证明](https://mp.weixin.qq.com/s/Ja7tE0W3XAmRC4NTZ7sDvQ) | 上海发布 2022-12-20
@@ -285,6 +286,7 @@
       - [重要提醒！孩子新冠用药，这 6 个方式都是错的](https://mp.weixin.qq.com/s/0RHaefofMESJB_XC2hjtOA) | 丁香医生 2022-12-15
       - [儿童发烧除了“布洛芬”还有哪些方法？专家来支招](https://mp.weixin.qq.com/s/NeYcJeDBkP7WgqQbE-Dv5w) | 上海发布 2022-12-15
       - [新生儿和 1～3 月龄宝宝不能吃药，如何应对新冠？](https://mp.weixin.qq.com/s/VZZU1ZMFLfjVsNLH_35amQ) | 丁香妈妈 2022-12-21
+      - [孩子感染新冠，这样吃少受罪，营养恢复快](https://mp.weixin.qq.com/s/_t_b_hPXaElNVE-8I-6BEA) |  丁香妈妈 2022-12-24
       - [老人得了新冠怎么办？](https://mp.weixin.qq.com/s/MoANgw_SQM2GFGqvaMKoAg) | 丁香医生 2022-12-13
       - [铲屎官感染了新冠，家里宠物怎么办？首先，不必给它们戴口罩](https://mp.weixin.qq.com/s/4kB-5HH5ucb9Bm6XSCF5Dw) | 果壳 2022-12-11
     - [应对新冠，我们应该备什么药？（附：家中常备药清单](https://mp.weixin.qq.com/s/tCq0dRUtyIfDlx6dAQjWJQ) | 丁香生活研究所 2022-12-08
@@ -295,6 +297,7 @@
       - [买不到退烧药怎么办？这些应急方法可以考虑一下](https://mp.weixin.qq.com/s/af5t1ak13fl3ETHtlNc-0A) | 丁香妈妈 2022-12-19
       - [买不到布洛芬、对乙酰氨基酚，怎么办？](https://mp.weixin.qq.com/s/PDALXWw69X4gQOKoWSVVDA) | 丁香医生 2022-12-21
       - [布洛芬缓释，不能退烧吗？](https://mp.weixin.qq.com/s/RD76VxAKRxdtY4ORhSDi5A) | 丁香医生 2022-12-23
+      - [没有退烧药，如何正确地物理降温？](https://mp.weixin.qq.com/s/4LN3_MtDSfzh5vonPjdong) | 丁香医生 2022-12-23
       - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
       - [感染后咳嗽怎么办？超详细止咳方法](https://mp.weixin.qq.com/s/WWCfk10vtyenlNaQPZYE6g) | 丁香医生 2022-12-20
       - [「水泥封鼻」有救了！鼻塞超详细缓解手册](https://mp.weixin.qq.com/s/zT9Uyke7Lh5ES53pa-MzvQ) | 丁香医生 2022-12-22
@@ -307,6 +310,7 @@
       - [“阳康”后15天才能产生抗体？转阴后能照顾阳性家人吗？](https://mp.weixin.qq.com/s/zZa-czvTU0oZg3A2CuESuA) | 上海市消保委 2022-12-21
       - [转阴后要给家里消杀吗？能运动吗？要换牙刷吗？](https://mp.weixin.qq.com/s/Qq8yDxtQZv9X6YU0_sgItg) | 果壳 2022-12-21
       - [阳康后能洗澡吗？能运动吗？13 个你最关心的生活问题](https://mp.weixin.qq.com/s/-DEvsYHXk807ZlJkp0z1vQ) | 丁香医生 2022-12-22
+      - [“阳康”后运动会得心肌炎？一文讲清运动时机、方式、危险信号](https://mp.weixin.qq.com/s/jCh8OKclXvxuo3qzMH5xdA) | 果壳 2022-12-23
   * 症状了解
     - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
     - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
@@ -318,6 +322,9 @@
     - [新冠感染多久能产生抗体？“二次感染”和哪些因素有关？](https://mp.weixin.qq.com/s/Aqb3WK4XSWqiXbmi3Bg1MA) | 第一财经 2022-12-20
     - [止疼药吃多了，会不会变傻或上瘾？](https://mp.weixin.qq.com/s/JXxRDAf2Fl77dwSNY3lrVQ) | 果壳 2022-12-22
     - [高烧、咳嗽、酸痛、放屁…病毒究竟在你体内祸祸啥？](https://mp.weixin.qq.com/s/jUH9-n7nq3aeIVEj2KNMzg) | 混知 2022-12-23
+    - [都是阳性，为什么症状这么不一样？](https://mp.weixin.qq.com/s/rKoFnky2gMreE2Zd4KCkhQ) | 丁香医生 2022-12-24
+    - [新冠病毒可能经过屁传播吗？](https://mp.weixin.qq.com/s/zGw6AAkw4vkvMuqHpYUtsQ) | 科学公园 2022-12-24
+    - [都会发烧，怎么判断自己是新冠、流感还是感冒？](https://mp.weixin.qq.com/s/pFTzDHHEHgABU5gUr6CtYg) | 丁香医生 2022-12-25
   * 救助联系（上海）
     - [收藏！上海市各级医疗机构健康服务咨询热线汇总](https://mp.weixin.qq.com/s/zqdJvzejOuRuvc442yE4kA) |上海发布 2022-12-14
     - [浦东、黄浦、静安、徐汇、普陀、虹口、杨浦、金山、崇明](https://mp.weixin.qq.com/s/YqY-h55ow7yyVngvyzmt0w) | 上海发布 2022-12-13
