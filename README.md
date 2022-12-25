@@ -269,6 +269,7 @@
     - 老年人防护
       - [我们如何保护老年人和脆弱人群安然度过疫情？](https://mp.weixin.qq.com/s/Et4D9fDQrsb4gUi73vq2Vw) | 华山感染 2022-12-01
       - [张文宏：新冠最终会成为季节性流行病，如何帮助老人躲过第一波感染](https://mp.weixin.qq.com/s/vjzFpF7Lk_2EaE530u4jAA) | 第一财经 2022-12-12
+      - [家有老人，如何应对感染高峰？5 大指标帮你识别危险](https://mp.weixin.qq.com/s/3w9oCKucVCZz8g0w23WleQ) | 丁香医生 2022-12-25
     - 自测
       - [新冠抗原居家自测，看这一篇就够了！（建议收藏）](https://mp.weixin.qq.com/s/eJFj4cwmqkYk2NW3GLNr0Q) | 果壳 2022-12-08
       - [抗原自测9大注意事项，你都知道吗→](https://mp.weixin.qq.com/s/5WsLXbj7TWCN5ugtErJCJQ) | 上海发布 2022-12-12
@@ -292,6 +293,7 @@
         - [应对新冠，孕期、有孩子家庭应该备什么药？（附：常备药清单](https://mp.weixin.qq.com/s/75QU_hWMruoECZDXmla6_Q) | 丁香医生 2022-12-13
         - [孕产妇感染新冠怎么办？会影响胎儿吗？最全防护攻略来了](https://mp.weixin.qq.com/s/kVzSMojqI4chaCTeDekr2A) | 丁香医生 2022-12-18
         - [感染新冠后多久可以怀孕？疫情期间备孕，一定要知道的 5 件事](https://mp.weixin.qq.com/s/W1R9_ZtvVnFkG2KWg5nHtQ) | 丁香妈妈 2022-12-18
+        - [孕期感染新冠，这样吃少受罪，营养又长胎](https://mp.weixin.qq.com/s/T1dzkdEE6QRs4vGrQT83zw) | 丁香妈妈 2022-12-25
       - 孩子
         - [孩子感染新冠怎么办？最全居家护理指南](https://mp.weixin.qq.com/s/ty0Z36ZQNLVVpVnzmZX5VQ) | 丁香医生 2022-12-11
         - [重要提醒！孩子新冠用药，这 6 个方式都是错的](https://mp.weixin.qq.com/s/0RHaefofMESJB_XC2hjtOA) | 丁香医生 2022-12-15
@@ -357,6 +359,8 @@
   * 工具
     - [防疫物资、新冠门诊、家庭防疫手册都来了！一起新冠退退退](https://mp.weixin.qq.com/s/p-4JbDKZEUoUkDPhvhDozw) | 丁香生活研究所 2022-12-18
   * 相关报道（选录）
+    - [重症高峰来临后，满负荷运转的医院里是什么情况？](https://mp.weixin.qq.com/s/DKsL336fOjF87yrLNb5TFQ) | 三联生活周刊 2022-12-25
+    - [抗原试剂盒的钱都被谁赚了？](https://mp.weixin.qq.com/s/C2vSESeISIYWkdFqT8C2XQ) | 36氪 2022-12-25
     - [“放开”之后，经历感染高峰的最难一届考研人](https://mp.weixin.qq.com/s/zeIlroGGE15a_59xXR079g) | 三联生活周刊 2022-12-22
     - [为什么连医院都买不到退烧药？](https://mp.weixin.qq.com/s/bd8Qty5gAEi1tT-W33n5Qg) | 科学公园 2022-12-22
     - [入境隔离放开，不应“犹抱琵琶半遮面”](https://mp.weixin.qq.com/s/aQyhDsSIkbCxxIhIPKRGIA) | 财新网 2022-12-22
