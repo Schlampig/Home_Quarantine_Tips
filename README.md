@@ -399,8 +399,8 @@
     - [保存新鲜蒜苔，不要直接放冰箱，学会这一招，吃半年都很新鲜](https://mp.weixin.qq.com/s/w32Dl1T4BP2So2-26lLjkQ) | 家常菜谱做美食 2022-04-27
     - [想犯个懒？这些速食也不错](https://mp.weixin.qq.com/s/DBTaoNmB_DDqPnQ81skzXA) | 丁香生活研究所 2022-10-04
   * 做菜
-    - [隔离食用手册](https://cook.yunyoujun.cn/)
-    - [HowToCook](https://github.com/Anduin2017/HowToCook)
+    - [隔离食用手册](https://cook.yunyoujun.cn/) | [云游君](www.yunyoujun.cn)
+    - [HowToCook](https://github.com/Anduin2017/HowToCook) | [Anduin Xue](https://github.com/Anduin2017)
     - [宅家学做菜，请先学会看懂菜谱！](https://mp.weixin.qq.com/s/dJ7PVy2X2EoUcxjRSZkdZQ) | 混知 2022-04-08
     - [生抽老抽、鸡精味精...各种调味品都有啥区别？](https://mp.weixin.qq.com/s/ZT9Gwkpi0E0Aifc-N9l-pg) | 混知 2022-04-15
     - [官方最新发布来了！更适合中国人的 10 个吃饭建议，赶紧学](https://mp.weixin.qq.com/s/fmYCFneUQnnNxBkpCyv-VA) | 丁香医生 2022-04-26
@@ -420,7 +420,7 @@
     - [什么健身器械最适合看剧和堆衣服？](https://mp.weixin.qq.com/s/hgGQ3W1W0SYD1wxnAp2OSA) | 果壳 2022-12-06
     - [这个平板支撑做得好看吗？全身都错 | 果断练](https://mp.weixin.qq.com/s/64zg0wdk4nAJc4d-pONdvQ) | 果壳 2020-04-26
     - [还用仰卧起坐练腹肌？小心你的腰](https://mp.weixin.qq.com/s/aM53t0gbSHbF0WCcOM3Ung) | 果壳 2022-11-27
-    - [关于「休息」的实操大全，做不到这 6 点都是无效休息](https://mp.weixin.qq.com/s/BdxrL9tY5ti3JIVOtvxdUg)
+    - [关于「休息」的实操大全，做不到这 6 点都是无效休息](https://mp.weixin.qq.com/s/BdxrL9tY5ti3JIVOtvxdUg) | 丁香医生 2022-12-13
   * 装备
     - [如果突然被通知要隔离，应该准备些什么？（附：囤货清单](https://mp.weixin.qq.com/s/az1BrnCGg3sIpQqHOuBUVQ) | 丁香医生 2022-04-09
   * 检测与诊断
