@@ -238,6 +238,8 @@
 
 ### 6 应对开放
   * 时间线
+    - [一线直击：“阳康”医护加快返岗，家庭医生守护社区一线](https://mp.weixin.qq.com/s/qb-P7eJyGALXxPLFuX-F1Q) | 上海发布 2022-12-26
+    - [全力收治患者！上海“120”出车近一周环比上升33.5%](https://mp.weixin.qq.com/s/B8fkrnO0oNRnEy8Raa4N4A) | 上海发布 2022-12-25
     - [海量健康码数据处理：如何明确责任主体，直接删除？](https://mp.weixin.qq.com/s/b9pvm5F6_-aF2guNdLU-0A) | 财新网 2022-12-23
     - [抗原去哪了？药店限购、缺货 渠道囤货需求旺盛](https://mp.weixin.qq.com/s/HA7ykYAGVcP0knvog3QCBA) | 财新网 2022-12-21
     - [多地开打“第四针”：各接种点剂种不同，“阳康”人群要打吗](https://mp.weixin.qq.com/s/rUQhZ7eaeAQ8hztGroJx1A) | 第一财经 2022-12-21
@@ -333,21 +335,26 @@
       - [阳过后，家里如何消毒？给你一份实用操作指南](https://mp.weixin.qq.com/s/pZha_RL7JkR1fqxPjGUP3w) | 丁香医生 2022-12-20
       - [“阳康”后15天才能产生抗体？转阴后能照顾阳性家人吗？](https://mp.weixin.qq.com/s/zZa-czvTU0oZg3A2CuESuA) | 上海市消保委 2022-12-21
       - [转阴后要给家里消杀吗？能运动吗？要换牙刷吗？](https://mp.weixin.qq.com/s/Qq8yDxtQZv9X6YU0_sgItg) | 果壳 2022-12-21
-      - [阳康后能洗澡吗？能运动吗？13 个你最关心的生活问题](https://mp.weixin.qq.com/s/-DEvsYHXk807ZlJkp0z1vQ) | 丁香医生 2022-12-22
+      - [阳康后能洗澡吗？能运动吗？13 个你最关心的生活问题](https://mp.weixin.qq.com/s/-DEvsYHXk807ZlJkp0z1vQ) | 丁香医生 2022-12-22 [v2](https://mp.weixin.qq.com/s/sy616kiX7lVg2Cq4r3j12g)
       - [“阳康”后运动会得心肌炎？一文讲清运动时机、方式、危险信号](https://mp.weixin.qq.com/s/jCh8OKclXvxuo3qzMH5xdA) | 果壳 2022-12-23
   * 症状了解
-    - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
-    - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
-    - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
-    - [二次感染新冠会更严重么？关于重复感染的简明事实](https://mp.weixin.qq.com/s/tdawSCUKOjReHwMT9VMtqQ) | 丁香医生 2022-12-14
-    - [「新冠后遗症」到底存不存在，严重吗？](https://mp.weixin.qq.com/s/coLyTQViJf3nlef69TIceA) | 丁香医生 2022-12-14
-    - [「新冠肺炎」对肺部还有损伤吗？](https://mp.weixin.qq.com/s/JZ8REXaluLJeC9E4QYaifg) | 丁香医生 2022-12-15
-    - [脑雾是新冠的后遗症吗？](https://mp.weixin.qq.com/s/0dgvdm5KykJDNniUpdOXsg) | 丁香医生 2022-12-15
-    - [新冠感染多久能产生抗体？“二次感染”和哪些因素有关？](https://mp.weixin.qq.com/s/Aqb3WK4XSWqiXbmi3Bg1MA) | 第一财经 2022-12-20
-    - [止疼药吃多了，会不会变傻或上瘾？](https://mp.weixin.qq.com/s/JXxRDAf2Fl77dwSNY3lrVQ) | 果壳 2022-12-22
-    - [高烧、咳嗽、酸痛、放屁…病毒究竟在你体内祸祸啥？](https://mp.weixin.qq.com/s/jUH9-n7nq3aeIVEj2KNMzg) | 混知 2022-12-23
-    - [都是阳性，为什么症状这么不一样？](https://mp.weixin.qq.com/s/rKoFnky2gMreE2Zd4KCkhQ) | 丁香医生 2022-12-24
-    - [新冠病毒可能经过屁传播吗？](https://mp.weixin.qq.com/s/zGw6AAkw4vkvMuqHpYUtsQ) | 科学公园 2022-12-24
+    - 原理
+      - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
+      - [高烧、咳嗽、酸痛、放屁…病毒究竟在你体内祸祸啥？](https://mp.weixin.qq.com/s/jUH9-n7nq3aeIVEj2KNMzg) | 混知 2022-12-23
+      - [都是阳性，为什么症状这么不一样？](https://mp.weixin.qq.com/s/rKoFnky2gMreE2Zd4KCkhQ) | 丁香医生 2022-12-24
+      - [新冠病毒可能经过屁传播吗？](https://mp.weixin.qq.com/s/zGw6AAkw4vkvMuqHpYUtsQ) | 科学公园 2022-12-24
+      - [止疼药吃多了，会不会变傻或上瘾？](https://mp.weixin.qq.com/s/JXxRDAf2Fl77dwSNY3lrVQ) | 果壳 2022-12-22
+    - 症状
+      - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
+      - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
+    - 后遗症
+      - [「新冠后遗症」到底存不存在，严重吗？](https://mp.weixin.qq.com/s/coLyTQViJf3nlef69TIceA) | 丁香医生 2022-12-14
+      - [「新冠肺炎」对肺部还有损伤吗？](https://mp.weixin.qq.com/s/JZ8REXaluLJeC9E4QYaifg) | 丁香医生 2022-12-15
+      - [脑雾是新冠的后遗症吗？](https://mp.weixin.qq.com/s/0dgvdm5KykJDNniUpdOXsg) | 丁香医生 2022-12-15
+    - 抗体 & 二次感染
+      - [二次感染新冠会更严重么？关于重复感染的简明事实](https://mp.weixin.qq.com/s/tdawSCUKOjReHwMT9VMtqQ) | 丁香医生 2022-12-14
+      - [新冠感染多久能产生抗体？“二次感染”和哪些因素有关？](https://mp.weixin.qq.com/s/Aqb3WK4XSWqiXbmi3Bg1MA) | 第一财经 2022-12-20
+      - [感染新冠后，几天能生成抗体？](https://mp.weixin.qq.com/s/xumXc8B1CkerE2eBRhXtHg) |  丁香医生 2022-12-26  
   * 救助联系（上海地区）
     - [收藏！上海市各级医疗机构健康服务咨询热线汇总](https://mp.weixin.qq.com/s/zqdJvzejOuRuvc442yE4kA) |上海发布 2022-12-14
     - [浦东、黄浦、静安、徐汇、普陀、虹口、杨浦、金山、崇明](https://mp.weixin.qq.com/s/YqY-h55ow7yyVngvyzmt0w) | 上海发布 2022-12-13
@@ -359,6 +366,7 @@
   * 工具
     - [防疫物资、新冠门诊、家庭防疫手册都来了！一起新冠退退退](https://mp.weixin.qq.com/s/p-4JbDKZEUoUkDPhvhDozw) | 丁香生活研究所 2022-12-18
   * 相关报道（选录）
+    - [5天内已有12位两院院士逝世；卫健委不再发布每日疫情信息](https://mp.weixin.qq.com/s/fcV-uWFB7rI7U_J1DU18lA) | 科研圈 2022-12-26
     - [重症高峰来临后，满负荷运转的医院里是什么情况？](https://mp.weixin.qq.com/s/DKsL336fOjF87yrLNb5TFQ) | 三联生活周刊 2022-12-25
     - [抗原试剂盒的钱都被谁赚了？](https://mp.weixin.qq.com/s/C2vSESeISIYWkdFqT8C2XQ) | 36氪 2022-12-25
     - [“放开”之后，经历感染高峰的最难一届考研人](https://mp.weixin.qq.com/s/zeIlroGGE15a_59xXR079g) | 三联生活周刊 2022-12-22
