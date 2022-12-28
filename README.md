@@ -239,6 +239,8 @@
 
 ### 6 应对开放
   * 时间线
+    - [事关春节返乡出游、放假开学、节后返岗……春运工作方案来了！](https://mp.weixin.qq.com/s/3wUEMU8EryrxdSwKDkFwRw) | 央视新闻 2022-12-28
+    - [超20省份开打新冠疫苗第四针，“阳康”人群何时可接种？](https://mp.weixin.qq.com/s/1J2TUmKJYSUdKhCE8EZxrA) | 第一财经 2022-12-28
     - [重磅！对新冠病毒感染实施“乙类乙管”的总体方案公布](https://mp.weixin.qq.com/s/NMzklF6__PSIcs1yZQvRWQ) | 央视新闻 2022-12-26
     - [一线直击：“阳康”医护加快返岗，家庭医生守护社区一线](https://mp.weixin.qq.com/s/qb-P7eJyGALXxPLFuX-F1Q) | 上海发布 2022-12-26
     - [全力收治患者！上海“120”出车近一周环比上升33.5%](https://mp.weixin.qq.com/s/B8fkrnO0oNRnEy8Raa4N4A) | 上海发布 2022-12-25
@@ -279,6 +281,10 @@
       - [抗原自测9大注意事项，你都知道吗→](https://mp.weixin.qq.com/s/5WsLXbj7TWCN5ugtErJCJQ) | 上海发布 2022-12-12
       - [名单公布！这些新冠病毒抗原检测试剂已获批](https://mp.weixin.qq.com/s/itPbNFY2W8x6VnAzrUbsyw) | 上海市消保委 2022-12-13
       - [都会发烧，怎么判断自己是新冠、流感还是感冒？](https://mp.weixin.qq.com/s/pFTzDHHEHgABU5gUr6CtYg) | 丁香医生 2022-12-25
+    - 用具
+      - [防疫需要备血氧仪吗？这几类人真有必要](https://mp.weixin.qq.com/s/t7R6xLrg8nRiVMDF8J2SBQ) | 丁香医生 2022-12-15
+      - [佩戴N95口罩会影响心肺功能吗？](https://mp.weixin.qq.com/s/wbhqHAQEKvqgFf77jUdlMw) | 上海疾控 2022-12-21
+      - [水银体温计、电子体温计、额温枪、耳温枪……体温计这么多，该怎么选？](https://mp.weixin.qq.com/s/iosw3qBGTIEj0UQFRUeZJQ) | 果壳 2022-12-27
     - 就医
       - [抗新冠策略千万条，核心就一条：得了新冠是否需要去医院？](https://mp.weixin.qq.com/s/FNnr7flf8fxmdyWVCaGh9w) | 华山感染 2022-12-08
       - [感染新冠病毒后需要去医院吗？居家隔离需注意什么？如何备药用药？今天的发布会聚焦这些热点问题](https://mp.weixin.qq.com/s/QyVso2Z2hJNElg4sf_OhcA) | 上海发布 2022-12-08
@@ -324,12 +330,9 @@
       - 缓解咽喉疼痛 & 咳嗽
         - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
         - [感染后咳嗽怎么办？超详细止咳方法](https://mp.weixin.qq.com/s/WWCfk10vtyenlNaQPZYE6g) | 丁香医生 2022-12-20
+        - [感染后咳痰困难真的很危险，学会这几招能救命](https://mp.weixin.qq.com/s/mg4dFLZ93lNK8h18UJGU-Q) | 丁香医生 2022-12-27
       - 缓解鼻涕 & 鼻塞
         - [「水泥封鼻」有救了！鼻塞超详细缓解手册](https://mp.weixin.qq.com/s/zT9Uyke7Lh5ES53pa-MzvQ) | 丁香医生 2022-12-22
-      - 测试血氧 & 血压
-        - [防疫需要备血氧仪吗？这几类人真有必要](https://mp.weixin.qq.com/s/t7R6xLrg8nRiVMDF8J2SBQ) | 丁香医生 2022-12-15
-      - 口罩 & 其他防具
-        - [佩戴N95口罩会影响心肺功能吗？](https://mp.weixin.qq.com/s/wbhqHAQEKvqgFf77jUdlMw) | 上海疾控 2022-12-21
     - 其他物资 & 对策
       - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
@@ -351,6 +354,7 @@
       - [都是阳性，为什么症状这么不一样？](https://mp.weixin.qq.com/s/rKoFnky2gMreE2Zd4KCkhQ) | 丁香医生 2022-12-24
       - [新冠病毒可能经过屁传播吗？](https://mp.weixin.qq.com/s/zGw6AAkw4vkvMuqHpYUtsQ) | 科学公园 2022-12-24
       - [止疼药吃多了，会不会变傻或上瘾？](https://mp.weixin.qq.com/s/JXxRDAf2Fl77dwSNY3lrVQ) | 果壳 2022-12-22
+      - [每个新冠重症患者，都需要逃脱一场免疫风暴？](https://mp.weixin.qq.com/s/WkCoHppO1WkhYLZ7BYlS5g) | 环球科学 2022-12-27
     - 症状
       - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
       - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
@@ -358,6 +362,7 @@
       - [「新冠后遗症」到底存不存在，严重吗？](https://mp.weixin.qq.com/s/coLyTQViJf3nlef69TIceA) | 丁香医生 2022-12-14
       - [「新冠肺炎」对肺部还有损伤吗？](https://mp.weixin.qq.com/s/JZ8REXaluLJeC9E4QYaifg) | 丁香医生 2022-12-15
       - [脑雾是新冠的后遗症吗？](https://mp.weixin.qq.com/s/0dgvdm5KykJDNniUpdOXsg) | 丁香医生 2022-12-15
+      - [感染新冠会影响男性或女性的生育力吗？](https://mp.weixin.qq.com/s/p0jhS_5xLoya3iFkGp6sag) | 丁香医生 2022-12-27
     - 抗体 & 二次感染
       - [二次感染新冠会更严重么？关于重复感染的简明事实](https://mp.weixin.qq.com/s/tdawSCUKOjReHwMT9VMtqQ) | 丁香医生 2022-12-14
       - [新冠感染多久能产生抗体？“二次感染”和哪些因素有关？](https://mp.weixin.qq.com/s/Aqb3WK4XSWqiXbmi3Bg1MA) | 第一财经 2022-12-20
@@ -376,6 +381,8 @@
   * 辟谣
     - [辟谣！这些关于新冠的消息都是假的！](https://mp.weixin.qq.com/s/HaQXuPck2g8bLLVGklulgw) | 上海本地宝 2022-12-27
   * 相关报道（选录）
+    - [再见，疫情地图。](https://mp.weixin.qq.com/s/6laHKe5gpTjxqaIjvK_46Q) | 丁香医生 2022-12-28
+    - [感染高峰下，要加入今年的春运吗？](https://mp.weixin.qq.com/s/rjeKE3bUKuDBAfqwG1nE_A) | 三联生活周刊 2022-12-27
     - [新冠更名、回归“乙类乙管”，我们的生活会有什么不同？](https://mp.weixin.qq.com/s/xclKrTBlshvIFlXkbAccOg) | 果壳 2022-12-27 
     - [国家卫健委：取消入境后全员核酸检测和集中隔离；新冠肺炎更名为新冠感染等新闻](https://mp.weixin.qq.com/s/QTTLb7UtMmcV7Jek5S1c2A) | 36氪 2022-12-27
     - [5天内已有12位两院院士逝世；卫健委不再发布每日疫情信息](https://mp.weixin.qq.com/s/fcV-uWFB7rI7U_J1DU18lA) | 科研圈 2022-12-26
