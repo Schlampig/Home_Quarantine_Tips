@@ -239,6 +239,7 @@
 
 ### 6 应对开放
   * 时间线
+    - [2023年综合运输春运新型冠状病毒感染疫情防控指南发布](https://mp.weixin.qq.com/s/wt7r2Rt-n11UL5Ij-UIwGw) | 上海发布 2022-12-29
     - [事关春节返乡出游、放假开学、节后返岗……春运工作方案来了！](https://mp.weixin.qq.com/s/3wUEMU8EryrxdSwKDkFwRw) | 央视新闻 2022-12-28
     - [超20省份开打新冠疫苗第四针，“阳康”人群何时可接种？](https://mp.weixin.qq.com/s/1J2TUmKJYSUdKhCE8EZxrA) | 第一财经 2022-12-28
     - [重磅！对新冠病毒感染实施“乙类乙管”的总体方案公布](https://mp.weixin.qq.com/s/NMzklF6__PSIcs1yZQvRWQ) | 央视新闻 2022-12-26
