@@ -336,6 +336,13 @@
         - [「水泥封鼻」有救了！鼻塞超详细缓解手册](https://mp.weixin.qq.com/s/zT9Uyke7Lh5ES53pa-MzvQ) | 丁香医生 2022-12-22
       - 疼痛
         - [阳了之后浑身都疼？这些缓解方法可以试试](https://mp.weixin.qq.com/s/hzX_c31phOAbgByQmguWog) | 丁香生活研究所 2022-12-29
+      - 心肌炎
+        - [“阳康”后运动会得心肌炎？一文讲清运动时机、方式、危险信号](https://mp.weixin.qq.com/s/jCh8OKclXvxuo3qzMH5xdA) | 果壳 2022-12-23
+        - [出现这几个症状，可能正在转重症！阳过后要警惕心肌炎](https://mp.weixin.qq.com/s/JPJLCKx9cZlQYW7RP1b27w) | 上海市消保委 2022-12-27
+        - [新冠引发的心肌炎，到底有多危险？怎样识别？](https://mp.weixin.qq.com/s/Gq2FZ2U7ZEcEzEFvFIKFrQ) | 丁香医生 2022-12-29
+        - [孩子阳了会引发肺炎、心肌炎吗？ 几种危险疾病信号，越早了解越好](https://mp.weixin.qq.com/s/DS19-Yh_DziNgF4vaCW7sA) | 丁香妈妈 2022-12-29
+      - 嗅觉 & 味觉
+        - [新冠后失去嗅觉味觉，吃啥都不香？加速恢复的办法来了！](https://mp.weixin.qq.com/s/rfbPnXDHx8sVU6hleI8xqA) | 果壳 2022-12-30
     - 其他物资 & 对策
       - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
@@ -348,8 +355,6 @@
       - [“阳康”后15天才能产生抗体？转阴后能照顾阳性家人吗？](https://mp.weixin.qq.com/s/zZa-czvTU0oZg3A2CuESuA) | 上海市消保委 2022-12-21
       - [转阴后要给家里消杀吗？能运动吗？要换牙刷吗？](https://mp.weixin.qq.com/s/Qq8yDxtQZv9X6YU0_sgItg) | 果壳 2022-12-21
       - [阳康后能洗澡吗？能运动吗？13 个你最关心的生活问题](https://mp.weixin.qq.com/s/-DEvsYHXk807ZlJkp0z1vQ) | 丁香医生 2022-12-22 [v2](https://mp.weixin.qq.com/s/sy616kiX7lVg2Cq4r3j12g)
-      - [“阳康”后运动会得心肌炎？一文讲清运动时机、方式、危险信号](https://mp.weixin.qq.com/s/jCh8OKclXvxuo3qzMH5xdA) | 果壳 2022-12-23
-      - [出现这几个症状，可能正在转重症！阳过后要警惕心肌炎](https://mp.weixin.qq.com/s/JPJLCKx9cZlQYW7RP1b27w) | 上海市消保委 2022-12-27
       - [注意工作节奏，做好健康监测！“阳康”们陆续返岗上班，这份防护指南请查收](https://mp.weixin.qq.com/s/foH4MQEux5ifej9JzKSF6A) | 上海发布 2022-12-28
   * 症状了解
     - 原理
@@ -384,6 +389,8 @@
     - [打开“随申办”，发热就诊一键查询！](https://mp.weixin.qq.com/s/xHEA4RSfLHH_ohPzfdYg4Q) | 健康上海12320 2022-12-27
   * 辟谣
     - [辟谣！这些关于新冠的消息都是假的！](https://mp.weixin.qq.com/s/HaQXuPck2g8bLLVGklulgw) | 上海本地宝 2022-12-27
+    - [是谁在用大白肺吓唬我们？](https://mp.weixin.qq.com/s/Z0FtxqOmfU9gOANHgDyr-w) | 科学公园 2022-12-29
+    - [靠放血来退烧、治嗓子疼？不靠谱，别信！](https://mp.weixin.qq.com/s/IImF1LSKYb1ufAPh8TF3LQ) | 果壳 2022-12-29
   * 相关报道（选录）
     - [寒冬送药人：五位好人，一种公民](https://mp.weixin.qq.com/s/ZLaps5MWUJ_Ct60NhiMSlg) | 晚点LatePost 2022-12-28
     - [再见，疫情地图。](https://mp.weixin.qq.com/s/6laHKe5gpTjxqaIjvK_46Q) | 丁香医生 2022-12-28
