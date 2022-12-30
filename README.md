@@ -359,6 +359,7 @@
       - [转阴后要给家里消杀吗？能运动吗？要换牙刷吗？](https://mp.weixin.qq.com/s/Qq8yDxtQZv9X6YU0_sgItg) | 果壳 2022-12-21
       - [阳康后能洗澡吗？能运动吗？13 个你最关心的生活问题](https://mp.weixin.qq.com/s/-DEvsYHXk807ZlJkp0z1vQ) | 丁香医生 2022-12-22 [v2](https://mp.weixin.qq.com/s/sy616kiX7lVg2Cq4r3j12g)
       - [注意工作节奏，做好健康监测！“阳康”们陆续返岗上班，这份防护指南请查收](https://mp.weixin.qq.com/s/foH4MQEux5ifej9JzKSF6A) | 上海发布 2022-12-28
+      - [新冠后总觉得累，怎么才能恢复？](https://mp.weixin.qq.com/s/cKKHZxc33uGY88STKasB8Q) | 丁香医生 2022-12-30
   * 症状了解
     - 原理
       - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
