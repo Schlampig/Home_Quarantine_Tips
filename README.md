@@ -336,7 +336,7 @@
       - 缓解鼻涕 & 鼻塞
         - [「水泥封鼻」有救了！鼻塞超详细缓解手册](https://mp.weixin.qq.com/s/zT9Uyke7Lh5ES53pa-MzvQ) | 丁香医生 2022-12-22
       - 缓解疼痛
-        - [阳了之后浑身都疼？这些缓解方法可以试试](https://mp.weixin.qq.com/s/hzX_c31phOAbgByQmguWog) | 丁香生活研究所 2022-12-29
+        - [阳了之后浑身都疼？这些缓解方法可以试试](https://mp.weixin.qq.com/s/hzX_c31phOAbgByQmguWog) | 丁香生活研究所 2022-12-29 [v2](https://mp.weixin.qq.com/s/0aT4eFj9CxsUbD6W88u_YA)
       - 预防心肌炎
         - [“阳康”后运动会得心肌炎？一文讲清运动时机、方式、危险信号](https://mp.weixin.qq.com/s/jCh8OKclXvxuo3qzMH5xdA) | 果壳 2022-12-23
         - [出现这几个症状，可能正在转重症！阳过后要警惕心肌炎](https://mp.weixin.qq.com/s/JPJLCKx9cZlQYW7RP1b27w) | 上海市消保委 2022-12-27
@@ -372,6 +372,8 @@
       - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
       - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
       - [9位新冠二次感染者自述：重复感染后会更严重么？](https://mp.weixin.qq.com/s/KyQf2_F5PZeWZdE9x-saPA) | 第一财经 2022-12-30
+      - [近千位“阳康”的“数据样本”：86%的感染者会发烧，同住者全部感染的概率最高](https://mp.weixin.qq.com/s/sL-UgdW5MmsDJscqk3E2qw) | 第一财经 2022-12-31
+      - [“上海样本”包含30个奥密克戎亚型毒株，北上广感染峰值预测](https://mp.weixin.qq.com/s/wyx-h0LYP0VsgcPesRr8hQ) | 上海市消保委 2023-01-01
     - 后遗症
       - [「新冠后遗症」到底存不存在，严重吗？](https://mp.weixin.qq.com/s/coLyTQViJf3nlef69TIceA) | 丁香医生 2022-12-14
       - [「新冠肺炎」对肺部还有损伤吗？](https://mp.weixin.qq.com/s/JZ8REXaluLJeC9E4QYaifg) | 丁香医生 2022-12-15
