@@ -286,6 +286,7 @@
       - [防疫需要备血氧仪吗？这几类人真有必要](https://mp.weixin.qq.com/s/t7R6xLrg8nRiVMDF8J2SBQ) | 丁香医生 2022-12-15
       - [佩戴N95口罩会影响心肺功能吗？](https://mp.weixin.qq.com/s/wbhqHAQEKvqgFf77jUdlMw) | 上海疾控 2022-12-21
       - [水银体温计、电子体温计、额温枪、耳温枪……体温计这么多，该怎么选？](https://mp.weixin.qq.com/s/iosw3qBGTIEj0UQFRUeZJQ) | 果壳 2022-12-27
+      - [我也抢不到血氧仪，于是找了一堆替代品，然而……](https://mp.weixin.qq.com/s/jssR38L3cWV1hJnAIGIm0w) | 果壳 2023-01-01
     - 就医
       - [抗新冠策略千万条，核心就一条：得了新冠是否需要去医院？](https://mp.weixin.qq.com/s/FNnr7flf8fxmdyWVCaGh9w) | 华山感染 2022-12-08
       - [感染新冠病毒后需要去医院吗？居家隔离需注意什么？如何备药用药？今天的发布会聚焦这些热点问题](https://mp.weixin.qq.com/s/QyVso2Z2hJNElg4sf_OhcA) | 上海发布 2022-12-08
@@ -333,10 +334,13 @@
         - [感染后嗓子痛咋办？这些方法也管用！（比如黄桃罐头](https://mp.weixin.qq.com/s/rHpEmvyzWpHAE8idOJ1PdA) | 丁香生活研究所 2022-12-11
         - [感染后咳嗽怎么办？超详细止咳方法](https://mp.weixin.qq.com/s/WWCfk10vtyenlNaQPZYE6g) | 丁香医生 2022-12-20
         - [感染后咳痰困难真的很危险，学会这几招能救命](https://mp.weixin.qq.com/s/mg4dFLZ93lNK8h18UJGU-Q) | 丁香医生 2022-12-27
+        - [新冠感染转阴后还咳不停，要紧吗？](https://mp.weixin.qq.com/s/g1OsxYMM_gDj8rlXwJ47ng) | 丁香生活研究所 2023-01-02
       - 缓解鼻涕 & 鼻塞
         - [「水泥封鼻」有救了！鼻塞超详细缓解手册](https://mp.weixin.qq.com/s/zT9Uyke7Lh5ES53pa-MzvQ) | 丁香医生 2022-12-22
       - 缓解疼痛
         - [阳了之后浑身都疼？这些缓解方法可以试试](https://mp.weixin.qq.com/s/hzX_c31phOAbgByQmguWog) | 丁香生活研究所 2022-12-29 [v2](https://mp.weixin.qq.com/s/0aT4eFj9CxsUbD6W88u_YA)
+      - 缓解腹泻
+        - [比起蒙脱石散，真正该储备的是补液盐](https://mp.weixin.qq.com/s/UNlB5tH758nfQHWKEaaXCA) | 丁香妈妈 2023-01-02
       - 预防心肌炎
         - [“阳康”后运动会得心肌炎？一文讲清运动时机、方式、危险信号](https://mp.weixin.qq.com/s/jCh8OKclXvxuo3qzMH5xdA) | 果壳 2022-12-23
         - [出现这几个症状，可能正在转重症！阳过后要警惕心肌炎](https://mp.weixin.qq.com/s/JPJLCKx9cZlQYW7RP1b27w) | 上海市消保委 2022-12-27
@@ -346,6 +350,7 @@
         - [白肺是什么？什么情形下需要拍 CT？](https://mp.weixin.qq.com/s/E96byRnQU0DUAgUF24u4zw) | 丁香生活研究所 2022-12-30
       - 恢复嗅觉 & 味觉
         - [新冠后失去嗅觉味觉，吃啥都不香？加速恢复的办法来了！](https://mp.weixin.qq.com/s/rfbPnXDHx8sVU6hleI8xqA) | 果壳 2022-12-30
+        - [阳康后嗅觉、味觉为啥没了？多久能恢复？](https://mp.weixin.qq.com/s/oy_hrk70mStSvbrPPXQ5Hw) | 丁香生活研究所 2023-01-02
     - 其他物资 & 对策
       - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
@@ -368,6 +373,7 @@
       - [新冠病毒可能经过屁传播吗？](https://mp.weixin.qq.com/s/zGw6AAkw4vkvMuqHpYUtsQ) | 科学公园 2022-12-24
       - [止疼药吃多了，会不会变傻或上瘾？](https://mp.weixin.qq.com/s/JXxRDAf2Fl77dwSNY3lrVQ) | 果壳 2022-12-22
       - [每个新冠重症患者，都需要逃脱一场免疫风暴？](https://mp.weixin.qq.com/s/WkCoHppO1WkhYLZ7BYlS5g) | 环球科学 2022-12-27
+      - [新冠“阳”后的传染性会持续多久？](https://mp.weixin.qq.com/s/8WZsRrdBTQd3DDgMw7Igpg) | 环球科学 2023-01-01
     - 症状
       - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
       - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
