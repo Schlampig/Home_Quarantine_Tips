@@ -374,12 +374,13 @@
       - [止疼药吃多了，会不会变傻或上瘾？](https://mp.weixin.qq.com/s/JXxRDAf2Fl77dwSNY3lrVQ) | 果壳 2022-12-22
       - [每个新冠重症患者，都需要逃脱一场免疫风暴？](https://mp.weixin.qq.com/s/WkCoHppO1WkhYLZ7BYlS5g) | 环球科学 2022-12-27
       - [新冠“阳”后的传染性会持续多久？](https://mp.weixin.qq.com/s/8WZsRrdBTQd3DDgMw7Igpg) | 环球科学 2023-01-01
-    - 症状
+    - 症状 & 现象
       - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
       - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
       - [9位新冠二次感染者自述：重复感染后会更严重么？](https://mp.weixin.qq.com/s/KyQf2_F5PZeWZdE9x-saPA) | 第一财经 2022-12-30
       - [近千位“阳康”的“数据样本”：86%的感染者会发烧，同住者全部感染的概率最高](https://mp.weixin.qq.com/s/sL-UgdW5MmsDJscqk3E2qw) | 第一财经 2022-12-31
       - [“上海样本”包含30个奥密克戎亚型毒株，北上广感染峰值预测](https://mp.weixin.qq.com/s/wyx-h0LYP0VsgcPesRr8hQ) | 上海市消保委 2023-01-01
+      - [XBB 已进入中国，会造成新一轮感染高峰吗？](https://mp.weixin.qq.com/s/PjiSV2NuKohu-8v_BFAKEw) | 丁香医生 2023-01-03
     - 后遗症
       - [「新冠后遗症」到底存不存在，严重吗？](https://mp.weixin.qq.com/s/coLyTQViJf3nlef69TIceA) | 丁香医生 2022-12-14
       - [「新冠肺炎」对肺部还有损伤吗？](https://mp.weixin.qq.com/s/JZ8REXaluLJeC9E4QYaifg) | 丁香医生 2022-12-15
@@ -405,6 +406,7 @@
     - [是谁在用大白肺吓唬我们？](https://mp.weixin.qq.com/s/Z0FtxqOmfU9gOANHgDyr-w) | 科学公园 2022-12-29
     - [靠放血来退烧、治嗓子疼？不靠谱，别信！](https://mp.weixin.qq.com/s/IImF1LSKYb1ufAPh8TF3LQ) | 果壳 2022-12-29
   * 相关报道（选录）
+    - [春运前的返乡者：有人千里带药回乡，有人回村排队就医](https://mp.weixin.qq.com/s/TU2Q7Oq63OJV5fph8fql7w) | 第一财经 2023-01-03
     - [寒冬送药人：五位好人，一种公民](https://mp.weixin.qq.com/s/ZLaps5MWUJ_Ct60NhiMSlg) | 晚点LatePost 2022-12-28
     - [再见，疫情地图。](https://mp.weixin.qq.com/s/6laHKe5gpTjxqaIjvK_46Q) | 丁香医生 2022-12-28
     - [感染高峰下，要加入今年的春运吗？](https://mp.weixin.qq.com/s/rjeKE3bUKuDBAfqwG1nE_A) | 三联生活周刊 2022-12-27
