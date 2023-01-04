@@ -297,6 +297,7 @@
       - [【便民】新冠病毒感染者居家指引（第一版）发布](https://mp.weixin.qq.com/s/2v0PgaiSd6O_8QVWIH6t_g) | 上海发布 2022-12-13
       - [居家隔离，来自医生的十条建议](https://mp.weixin.qq.com/s/HA4YaMh6Pvt1Jnr1-ri8jw) | 复旦大学附属中山医院 2022-12-19
       - [居家隔离不用慌，中山经验方了解一下！](https://mp.weixin.qq.com/s/I5U4p2TiveYnSQg0jU7gxA) | 复旦大学附属中山医院 2022-12-20
+      - [新冠防护必知的40个知识点](https://mp.weixin.qq.com/s/-bmOkhFvQZVGrMuVVsmtmQ) | 健康上海12320 2023-01-04
     - 孕产妇、小孩、老人养护
       - 通用
         - [新冠阳性家庭自述：当老人、孩子 40 度高烧，我们如何度过](https://mp.weixin.qq.com/s/exijF5kIQlpLFwvDNG2Bag) | 丁香医生 2022-12-11
@@ -391,7 +392,7 @@
       - [新冠感染多久能产生抗体？“二次感染”和哪些因素有关？](https://mp.weixin.qq.com/s/Aqb3WK4XSWqiXbmi3Bg1MA) | 第一财经 2022-12-20
       - [感染新冠后，几天能生成抗体？](https://mp.weixin.qq.com/s/xumXc8B1CkerE2eBRhXtHg) |  丁香医生 2022-12-26  
   * 救助联系（上海地区）
-    - [收藏！上海市各级医疗机构健康服务咨询热线汇总](https://mp.weixin.qq.com/s/zqdJvzejOuRuvc442yE4kA) |上海发布 2022-12-14
+    - [上海市各级医疗机构健康服务咨询热线汇总](https://mp.weixin.qq.com/s/zqdJvzejOuRuvc442yE4kA) |上海发布 2022-12-14
     - [浦东、黄浦、静安、徐汇、普陀、虹口、杨浦、金山、崇明](https://mp.weixin.qq.com/s/YqY-h55ow7yyVngvyzmt0w) | 上海发布 2022-12-13
     - [长宁、宝山、闵行、嘉定、松江、青浦、奉贤](https://mp.weixin.qq.com/s/W1Qw86Z7pBsAfOsUzFFNXg) | 上海发布 2022-12-11
     - [方便市民在线获得健康咨询、就医配药等服务，上海互联网医院名单及登录方式一览→](https://mp.weixin.qq.com/s/0JKAJ3LAWxCXv0JadM65Xg) | 上海发布 2022-12-16
@@ -406,6 +407,7 @@
     - [是谁在用大白肺吓唬我们？](https://mp.weixin.qq.com/s/Z0FtxqOmfU9gOANHgDyr-w) | 科学公园 2022-12-29
     - [靠放血来退烧、治嗓子疼？不靠谱，别信！](https://mp.weixin.qq.com/s/IImF1LSKYb1ufAPh8TF3LQ) | 果壳 2022-12-29
   * 相关报道（选录）
+    - [乡村医生们的心痛时刻：「只能把老人往上面医院送」](https://mp.weixin.qq.com/s/9dVsUBkvWmOPH-TR5WL_fw) | 丁香医生 2023-01-03
     - [春运前的返乡者：有人千里带药回乡，有人回村排队就医](https://mp.weixin.qq.com/s/TU2Q7Oq63OJV5fph8fql7w) | 第一财经 2023-01-03
     - [寒冬送药人：五位好人，一种公民](https://mp.weixin.qq.com/s/ZLaps5MWUJ_Ct60NhiMSlg) | 晚点LatePost 2022-12-28
     - [再见，疫情地图。](https://mp.weixin.qq.com/s/6laHKe5gpTjxqaIjvK_46Q) | 丁香医生 2022-12-28
