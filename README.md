@@ -314,6 +314,7 @@
         - [新生儿和 1～3 月龄宝宝不能吃药，如何应对新冠？](https://mp.weixin.qq.com/s/VZZU1ZMFLfjVsNLH_35amQ) | 丁香妈妈 2022-12-21
         - [孩子感染新冠，这样吃少受罪，营养恢复快](https://mp.weixin.qq.com/s/_t_b_hPXaElNVE-8I-6BEA) | 丁香妈妈 2022-12-24
         - [孩子感染新冠后，居家隔离需要注意什么？](https://mp.weixin.qq.com/s/ZFKMCkp3X5J6u0_i6PbOxA) | 丁香妈妈 2022-12-26
+        - [买不到补液盐怎么办？还有哪些药可以给孩子备？](https://mp.weixin.qq.com/s/Qcd18UJaXQ_ih_NU9LYd1g) | 丁香妈妈 2023-01-04
       - 老人
         - [老人得了新冠怎么办？](https://mp.weixin.qq.com/s/MoANgw_SQM2GFGqvaMKoAg) | 丁香医生 2022-12-13
       - 宠物
@@ -342,6 +343,7 @@
         - [阳了之后浑身都疼？这些缓解方法可以试试](https://mp.weixin.qq.com/s/hzX_c31phOAbgByQmguWog) | 丁香生活研究所 2022-12-29 [v2](https://mp.weixin.qq.com/s/0aT4eFj9CxsUbD6W88u_YA)
       - 缓解腹泻
         - [比起蒙脱石散，真正该储备的是补液盐](https://mp.weixin.qq.com/s/UNlB5tH758nfQHWKEaaXCA) | 丁香妈妈 2023-01-02
+        - [新冠真会拉肚子吗？需要准备哪些药](https://mp.weixin.qq.com/s/4bo6oYKddo9g5Lhm4yAM8Q) | 丁香医生 2023-01-04
       - 预防心肌炎
         - [“阳康”后运动会得心肌炎？一文讲清运动时机、方式、危险信号](https://mp.weixin.qq.com/s/jCh8OKclXvxuo3qzMH5xdA) | 果壳 2022-12-23
         - [出现这几个症状，可能正在转重症！阳过后要警惕心肌炎](https://mp.weixin.qq.com/s/JPJLCKx9cZlQYW7RP1b27w) | 上海市消保委 2022-12-27
@@ -406,7 +408,9 @@
     - [辟谣！这些关于新冠的消息都是假的！](https://mp.weixin.qq.com/s/HaQXuPck2g8bLLVGklulgw) | 上海本地宝 2022-12-27
     - [是谁在用大白肺吓唬我们？](https://mp.weixin.qq.com/s/Z0FtxqOmfU9gOANHgDyr-w) | 科学公园 2022-12-29
     - [靠放血来退烧、治嗓子疼？不靠谱，别信！](https://mp.weixin.qq.com/s/IImF1LSKYb1ufAPh8TF3LQ) | 果壳 2022-12-29
+    - [这款疫苗能“终结新冠”？它真的有这么强吗？](https://mp.weixin.qq.com/s/fo9mr3emgrU5aebZPZ_2oQ) | 果壳 2023-01-04
   * 相关报道（选录）
+    - [从月入30万到失业讨薪，核酸产业人员极速过山车](https://mp.weixin.qq.com/s/lnUowfoEB2Znmo79SgXjDA) | Tech星球 2023-01-04
     - [乡村医生们的心痛时刻：「只能把老人往上面医院送」](https://mp.weixin.qq.com/s/9dVsUBkvWmOPH-TR5WL_fw) | 丁香医生 2023-01-03
     - [春运前的返乡者：有人千里带药回乡，有人回村排队就医](https://mp.weixin.qq.com/s/TU2Q7Oq63OJV5fph8fql7w) | 第一财经 2023-01-03
     - [寒冬送药人：五位好人，一种公民](https://mp.weixin.qq.com/s/ZLaps5MWUJ_Ct60NhiMSlg) | 晚点LatePost 2022-12-28
