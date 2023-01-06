@@ -239,6 +239,8 @@
 
 ### 6 应对开放
   * 时间线
+    - [1月8日起，我市核酸检测不再延续免费政策，有需要的市民可前往这些采样点进行检测](https://mp.weixin.qq.com/s/hF3PZnrz8x-ycbhH0kp3Rg) | 上海发布 2023-01-06
+    - [上海：将新冠治疗相关药品临时纳入医保报销范围，扩大医保个人账户使用范围](https://mp.weixin.qq.com/s/NnXpFlhAmcoyNS9CIjzUUg) | 第一财经 2023-01-06
     - [重磅！第十版新冠诊疗方案调整要点](https://mp.weixin.qq.com/s/5Li2nS32Sd7T7FA3wHE6wQ) | 央视新闻 2023-01-06
     - [2023年综合运输春运新型冠状病毒感染疫情防控指南发布](https://mp.weixin.qq.com/s/wt7r2Rt-n11UL5Ij-UIwGw) | 上海发布 2022-12-29
     - [事关春节返乡出游、放假开学、节后返岗……春运工作方案来了！](https://mp.weixin.qq.com/s/3wUEMU8EryrxdSwKDkFwRw) | 央视新闻 2022-12-28
@@ -412,7 +414,6 @@
     - [上海市各大互联网医院入口汇总，可就医配药、开具新冠处方](https://mp.weixin.qq.com/s/KaXcL0fh5zFlBICmwcRlkw) | 健康上海12320 2022-12-18
     - [上海线上买药平台汇总！定好闹钟！10点、12点、16点、20点开售！](https://mp.weixin.qq.com/s/p7K6oECNckmTMr6U69XvnQ) | 上海本地宝 2022-12-20
     - [哪里可吸氧？哪里可输液、住院？上海335家社区卫生服务机构信息来了](https://mp.weixin.qq.com/s/yW5MYiyTrmc5ef_6u6TrjA) | 上海市消保委 2023-01-06
-    - [上海：将新冠治疗相关药品临时纳入医保报销范围，扩大医保个人账户使用范围](https://mp.weixin.qq.com/s/NnXpFlhAmcoyNS9CIjzUUg) | 第一财经 2023-01-06
   * 工具
     - [防疫物资、新冠门诊、家庭防疫手册都来了！一起新冠退退退](https://mp.weixin.qq.com/s/p-4JbDKZEUoUkDPhvhDozw) | 丁香生活研究所 2022-12-18
     - [打开“随申办”，发热就诊一键查询！](https://mp.weixin.qq.com/s/xHEA4RSfLHH_ohPzfdYg4Q) | 健康上海12320 2022-12-27
