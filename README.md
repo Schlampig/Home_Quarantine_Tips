@@ -353,12 +353,14 @@
       - 预防肺炎、白肺
         - [白肺是什么？什么情形下需要拍 CT？](https://mp.weixin.qq.com/s/E96byRnQU0DUAgUF24u4zw) | 丁香生活研究所 2022-12-30 [v2](https://mp.weixin.qq.com/s/Jv3D_T0NszIXp5WvcWMTHw)
         - [老年人得肺炎，可能根本不会发烧咳嗽！但这3种信号要警惕](https://mp.weixin.qq.com/s/EaHbhKUVD_Lz0JEg697zFA)
-      - 恢复嗅觉 & 味觉
+      - 恢复嗅觉 & 味觉 & 视觉
         - [新冠后失去嗅觉味觉，吃啥都不香？加速恢复的办法来了！](https://mp.weixin.qq.com/s/rfbPnXDHx8sVU6hleI8xqA) | 果壳 2022-12-30
         - [阳康后嗅觉、味觉为啥没了？多久能恢复？](https://mp.weixin.qq.com/s/oy_hrk70mStSvbrPPXQ5Hw) | 丁香生活研究所 2023-01-02
+        - [“阳康”后发现视力下降、畏光...感染新冠及“阳康”后眼睛是否会病变？](https://mp.weixin.qq.com/s/yn6mzQNiMshhKOXVI2KLiA) | 第一财经 2023-01-05
       - 疲惫
         - [新冠后总觉得累，怎么才能恢复？](https://mp.weixin.qq.com/s/cKKHZxc33uGY88STKasB8Q) | 丁香医生 2022-12-30
         - [“阳康”后走几步就累，脑子也转不动，怎么办？](https://mp.weixin.qq.com/s/vKRRKGZeIXvk8Hb6I4jH2w) | 果壳 2023-01-06
+        - [感染新冠后，究竟多久能「好透」？](https://mp.weixin.qq.com/s/vhxxael-EEemYVe6UC_GRw) | 丁香医生 2023-01-06
     - 其他物资 & 对策
       - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
@@ -410,6 +412,7 @@
     - [上海市各大互联网医院入口汇总，可就医配药、开具新冠处方](https://mp.weixin.qq.com/s/KaXcL0fh5zFlBICmwcRlkw) | 健康上海12320 2022-12-18
     - [上海线上买药平台汇总！定好闹钟！10点、12点、16点、20点开售！](https://mp.weixin.qq.com/s/p7K6oECNckmTMr6U69XvnQ) | 上海本地宝 2022-12-20
     - [哪里可吸氧？哪里可输液、住院？上海335家社区卫生服务机构信息来了](https://mp.weixin.qq.com/s/yW5MYiyTrmc5ef_6u6TrjA) | 上海市消保委 2023-01-06
+    - [上海：将新冠治疗相关药品临时纳入医保报销范围，扩大医保个人账户使用范围](https://mp.weixin.qq.com/s/NnXpFlhAmcoyNS9CIjzUUg) | 第一财经 2023-01-06
   * 工具
     - [防疫物资、新冠门诊、家庭防疫手册都来了！一起新冠退退退](https://mp.weixin.qq.com/s/p-4JbDKZEUoUkDPhvhDozw) | 丁香生活研究所 2022-12-18
     - [打开“随申办”，发热就诊一键查询！](https://mp.weixin.qq.com/s/xHEA4RSfLHH_ohPzfdYg4Q) | 健康上海12320 2022-12-27
