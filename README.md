@@ -239,6 +239,7 @@
 
 ### 6 应对开放
   * 时间线
+    - [重磅！第十版新冠诊疗方案调整要点](https://mp.weixin.qq.com/s/5Li2nS32Sd7T7FA3wHE6wQ) | 央视新闻 2023-01-06
     - [2023年综合运输春运新型冠状病毒感染疫情防控指南发布](https://mp.weixin.qq.com/s/wt7r2Rt-n11UL5Ij-UIwGw) | 上海发布 2022-12-29
     - [事关春节返乡出游、放假开学、节后返岗……春运工作方案来了！](https://mp.weixin.qq.com/s/3wUEMU8EryrxdSwKDkFwRw) | 央视新闻 2022-12-28
     - [超20省份开打新冠疫苗第四针，“阳康”人群何时可接种？](https://mp.weixin.qq.com/s/1J2TUmKJYSUdKhCE8EZxrA) | 第一财经 2022-12-28
@@ -350,10 +351,14 @@
         - [新冠引发的心肌炎，到底有多危险？怎样识别？](https://mp.weixin.qq.com/s/Gq2FZ2U7ZEcEzEFvFIKFrQ) | 丁香医生 2022-12-29
         - [孩子阳了会引发肺炎、心肌炎吗？ 几种危险疾病信号，越早了解越好](https://mp.weixin.qq.com/s/DS19-Yh_DziNgF4vaCW7sA) | 丁香妈妈 2022-12-29
       - 预防肺炎、白肺
-        - [白肺是什么？什么情形下需要拍 CT？](https://mp.weixin.qq.com/s/E96byRnQU0DUAgUF24u4zw) | 丁香生活研究所 2022-12-30
+        - [白肺是什么？什么情形下需要拍 CT？](https://mp.weixin.qq.com/s/E96byRnQU0DUAgUF24u4zw) | 丁香生活研究所 2022-12-30 [v2](https://mp.weixin.qq.com/s/Jv3D_T0NszIXp5WvcWMTHw)
+        - [老年人得肺炎，可能根本不会发烧咳嗽！但这3种信号要警惕](https://mp.weixin.qq.com/s/EaHbhKUVD_Lz0JEg697zFA)
       - 恢复嗅觉 & 味觉
         - [新冠后失去嗅觉味觉，吃啥都不香？加速恢复的办法来了！](https://mp.weixin.qq.com/s/rfbPnXDHx8sVU6hleI8xqA) | 果壳 2022-12-30
         - [阳康后嗅觉、味觉为啥没了？多久能恢复？](https://mp.weixin.qq.com/s/oy_hrk70mStSvbrPPXQ5Hw) | 丁香生活研究所 2023-01-02
+      - 疲惫
+        - [新冠后总觉得累，怎么才能恢复？](https://mp.weixin.qq.com/s/cKKHZxc33uGY88STKasB8Q) | 丁香医生 2022-12-30
+        - [“阳康”后走几步就累，脑子也转不动，怎么办？](https://mp.weixin.qq.com/s/vKRRKGZeIXvk8Hb6I4jH2w) | 果壳 2023-01-06
     - 其他物资 & 对策
       - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
@@ -367,7 +372,7 @@
       - [转阴后要给家里消杀吗？能运动吗？要换牙刷吗？](https://mp.weixin.qq.com/s/Qq8yDxtQZv9X6YU0_sgItg) | 果壳 2022-12-21
       - [阳康后能洗澡吗？能运动吗？13 个你最关心的生活问题](https://mp.weixin.qq.com/s/-DEvsYHXk807ZlJkp0z1vQ) | 丁香医生 2022-12-22 [v2](https://mp.weixin.qq.com/s/sy616kiX7lVg2Cq4r3j12g)
       - [注意工作节奏，做好健康监测！“阳康”们陆续返岗上班，这份防护指南请查收](https://mp.weixin.qq.com/s/foH4MQEux5ifej9JzKSF6A) | 上海发布 2022-12-28
-      - [新冠后总觉得累，怎么才能恢复？](https://mp.weixin.qq.com/s/cKKHZxc33uGY88STKasB8Q) | 丁香医生 2022-12-30
+      - [恢复期实用指南，这十项很重要](https://mp.weixin.qq.com/s/vGrKkk93L7xdMkqZPBwCAA) | 央视新闻 2023-01-05
   * 症状了解
     - 原理
       - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
@@ -377,6 +382,9 @@
       - [止疼药吃多了，会不会变傻或上瘾？](https://mp.weixin.qq.com/s/JXxRDAf2Fl77dwSNY3lrVQ) | 果壳 2022-12-22
       - [每个新冠重症患者，都需要逃脱一场免疫风暴？](https://mp.weixin.qq.com/s/WkCoHppO1WkhYLZ7BYlS5g) | 环球科学 2022-12-27
       - [新冠“阳”后的传染性会持续多久？](https://mp.weixin.qq.com/s/8WZsRrdBTQd3DDgMw7Igpg) | 环球科学 2023-01-01
+      - [现在还没阳的人，到底是怎么回事啊？](https://mp.weixin.qq.com/s/SiED5yA_VmxPWWCA4iES_Q) | 丁香医生 2023-01-05
+      - [令科学家费解的新冠反弹现象](https://mp.weixin.qq.com/s/DEvnboEpHtElAlVudO-uLQ) | Nature Portfolio 2023-01-05
+      - [这次「症状重的人」和「症状轻的人」，谁的免疫系统更强？](https://mp.weixin.qq.com/s/vLUriLU6nLpKAnPPcU373Q) | 中科院物理所 2023-01-05
     - 症状 & 现象
       - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
       - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
@@ -401,6 +409,7 @@
     - [上海市二级以上医疗机构发热门诊一览](https://mp.weixin.qq.com/s/mYOo0C9m6uqexl7z8pIb6g) | 健康上海12320 2022-12-20
     - [上海市各大互联网医院入口汇总，可就医配药、开具新冠处方](https://mp.weixin.qq.com/s/KaXcL0fh5zFlBICmwcRlkw) | 健康上海12320 2022-12-18
     - [上海线上买药平台汇总！定好闹钟！10点、12点、16点、20点开售！](https://mp.weixin.qq.com/s/p7K6oECNckmTMr6U69XvnQ) | 上海本地宝 2022-12-20
+    - [哪里可吸氧？哪里可输液、住院？上海335家社区卫生服务机构信息来了](https://mp.weixin.qq.com/s/yW5MYiyTrmc5ef_6u6TrjA) | 上海市消保委 2023-01-06
   * 工具
     - [防疫物资、新冠门诊、家庭防疫手册都来了！一起新冠退退退](https://mp.weixin.qq.com/s/p-4JbDKZEUoUkDPhvhDozw) | 丁香生活研究所 2022-12-18
     - [打开“随申办”，发热就诊一键查询！](https://mp.weixin.qq.com/s/xHEA4RSfLHH_ohPzfdYg4Q) | 健康上海12320 2022-12-27
@@ -409,6 +418,7 @@
     - [是谁在用大白肺吓唬我们？](https://mp.weixin.qq.com/s/Z0FtxqOmfU9gOANHgDyr-w) | 科学公园 2022-12-29
     - [靠放血来退烧、治嗓子疼？不靠谱，别信！](https://mp.weixin.qq.com/s/IImF1LSKYb1ufAPh8TF3LQ) | 果壳 2022-12-29
     - [这款疫苗能“终结新冠”？它真的有这么强吗？](https://mp.weixin.qq.com/s/fo9mr3emgrU5aebZPZ_2oQ) | 果壳 2023-01-04
+    - [接种新冠灭活疫苗会导致肺结节吗?](https://mp.weixin.qq.com/s/BoGe5UGoZkqTe7glMAYYgQ) | 上海疾控 2023-01-04
   * 相关报道（选录）
     - [从月入30万到失业讨薪，核酸产业人员极速过山车](https://mp.weixin.qq.com/s/lnUowfoEB2Znmo79SgXjDA) | Tech星球 2023-01-04
     - [乡村医生们的心痛时刻：「只能把老人往上面医院送」](https://mp.weixin.qq.com/s/9dVsUBkvWmOPH-TR5WL_fw) | 丁香医生 2023-01-03
