@@ -239,6 +239,7 @@
 
 ### 6 应对开放
   * 时间线
+    - [国家医保局约谈新冠药企降价，新冠报销延续住院个人零自付](https://mp.weixin.qq.com/s/zfkmO8hJflo_ixOoY4oLng) | 第一财经 2023-01-07
     - [1月8日起，我市核酸检测不再延续免费政策，有需要的市民可前往这些采样点进行检测](https://mp.weixin.qq.com/s/hF3PZnrz8x-ycbhH0kp3Rg) | 上海发布 2023-01-06
     - [上海：将新冠治疗相关药品临时纳入医保报销范围，扩大医保个人账户使用范围](https://mp.weixin.qq.com/s/NnXpFlhAmcoyNS9CIjzUUg) | 第一财经 2023-01-06
     - [重磅！第十版新冠诊疗方案调整要点](https://mp.weixin.qq.com/s/5Li2nS32Sd7T7FA3wHE6wQ) | 央视新闻 2023-01-06
@@ -352,6 +353,7 @@
         - [出现这几个症状，可能正在转重症！阳过后要警惕心肌炎](https://mp.weixin.qq.com/s/JPJLCKx9cZlQYW7RP1b27w) | 上海市消保委 2022-12-27
         - [新冠引发的心肌炎，到底有多危险？怎样识别？](https://mp.weixin.qq.com/s/Gq2FZ2U7ZEcEzEFvFIKFrQ) | 丁香医生 2022-12-29
         - [孩子阳了会引发肺炎、心肌炎吗？ 几种危险疾病信号，越早了解越好](https://mp.weixin.qq.com/s/DS19-Yh_DziNgF4vaCW7sA) | 丁香妈妈 2022-12-29
+        - [新冠后，怎么恢复运动？会得心肌炎么？](https://mp.weixin.qq.com/s/i0uKWxS5Y9CkSoSpXbEHRA) | 丁香医生 2023-01-07
       - 预防肺炎、白肺
         - [白肺是什么？什么情形下需要拍 CT？](https://mp.weixin.qq.com/s/E96byRnQU0DUAgUF24u4zw) | 丁香生活研究所 2022-12-30 [v2](https://mp.weixin.qq.com/s/Jv3D_T0NszIXp5WvcWMTHw)
         - [老年人得肺炎，可能根本不会发烧咳嗽！但这3种信号要警惕](https://mp.weixin.qq.com/s/EaHbhKUVD_Lz0JEg697zFA)
@@ -363,6 +365,7 @@
         - [新冠后总觉得累，怎么才能恢复？](https://mp.weixin.qq.com/s/cKKHZxc33uGY88STKasB8Q) | 丁香医生 2022-12-30
         - [“阳康”后走几步就累，脑子也转不动，怎么办？](https://mp.weixin.qq.com/s/vKRRKGZeIXvk8Hb6I4jH2w) | 果壳 2023-01-06
         - [感染新冠后，究竟多久能「好透」？](https://mp.weixin.qq.com/s/vhxxael-EEemYVe6UC_GRw) | 丁香医生 2023-01-06
+        - [感染新冠后经常头晕，甚至感觉天旋地转，怎么办？](https://mp.weixin.qq.com/s/eiAzi1UvgmY3x9AMRluwIQ) | 丁香医生 2023-01-08
     - 其他物资 & 对策
       - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
@@ -389,6 +392,7 @@
       - [现在还没阳的人，到底是怎么回事啊？](https://mp.weixin.qq.com/s/SiED5yA_VmxPWWCA4iES_Q) | 丁香医生 2023-01-05
       - [令科学家费解的新冠反弹现象](https://mp.weixin.qq.com/s/DEvnboEpHtElAlVudO-uLQ) | Nature Portfolio 2023-01-05
       - [这次「症状重的人」和「症状轻的人」，谁的免疫系统更强？](https://mp.weixin.qq.com/s/vLUriLU6nLpKAnPPcU373Q) | 中科院物理所 2023-01-05
+      - [明明康复了，怎么又「复阳」？](https://mp.weixin.qq.com/s/PNZ4vzcTMG9x9RDVTVmqaA) | 丁香医生 2023-01-08
     - 症状 & 现象
       - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
       - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
