@@ -341,6 +341,7 @@
         - [感染后咳嗽怎么办？超详细止咳方法](https://mp.weixin.qq.com/s/WWCfk10vtyenlNaQPZYE6g) | 丁香医生 2022-12-20
         - [感染后咳痰困难真的很危险，学会这几招能救命](https://mp.weixin.qq.com/s/mg4dFLZ93lNK8h18UJGU-Q) | 丁香医生 2022-12-27
         - [新冠感染转阴后还咳不停，要紧吗？](https://mp.weixin.qq.com/s/g1OsxYMM_gDj8rlXwJ47ng) | 丁香生活研究所 2023-01-02
+        - [早就「阳康」了，为啥还咳个不停？是肺炎吗](https://mp.weixin.qq.com/s/OuHM-728tpvWGuj1UjSlXQ) | 丁香医生 2023-01-09
       - 缓解鼻涕 & 鼻塞
         - [「水泥封鼻」有救了！鼻塞超详细缓解手册](https://mp.weixin.qq.com/s/zT9Uyke7Lh5ES53pa-MzvQ) | 丁香医生 2022-12-22
       - 缓解疼痛
@@ -348,12 +349,14 @@
       - 缓解腹泻
         - [比起蒙脱石散，真正该储备的是补液盐](https://mp.weixin.qq.com/s/UNlB5tH758nfQHWKEaaXCA) | 丁香妈妈 2023-01-02
         - [新冠真会拉肚子吗？需要准备哪些药](https://mp.weixin.qq.com/s/4bo6oYKddo9g5Lhm4yAM8Q) | 丁香医生 2023-01-04
+        - [感染新冠后放屁变多，是正常现象么？](https://mp.weixin.qq.com/s/TLWhkIlu3Ba5pViKlTdNyg) | 丁香医生 2023-01-09
       - 预防心肌炎
         - [“阳康”后运动会得心肌炎？一文讲清运动时机、方式、危险信号](https://mp.weixin.qq.com/s/jCh8OKclXvxuo3qzMH5xdA) | 果壳 2022-12-23
         - [出现这几个症状，可能正在转重症！阳过后要警惕心肌炎](https://mp.weixin.qq.com/s/JPJLCKx9cZlQYW7RP1b27w) | 上海市消保委 2022-12-27
         - [新冠引发的心肌炎，到底有多危险？怎样识别？](https://mp.weixin.qq.com/s/Gq2FZ2U7ZEcEzEFvFIKFrQ) | 丁香医生 2022-12-29
         - [孩子阳了会引发肺炎、心肌炎吗？ 几种危险疾病信号，越早了解越好](https://mp.weixin.qq.com/s/DS19-Yh_DziNgF4vaCW7sA) | 丁香妈妈 2022-12-29
         - [新冠后，怎么恢复运动？会得心肌炎么？](https://mp.weixin.qq.com/s/i0uKWxS5Y9CkSoSpXbEHRA) | 丁香医生 2023-01-07
+        - [阳康之后容易心慌啊，动不动心脏就咚咚咚的，怎么办？](https://mp.weixin.qq.com/s/LWQi055sXH_ut-c114CK3w) | 果壳 2023-01-09
       - 预防肺炎、白肺
         - [白肺是什么？什么情形下需要拍 CT？](https://mp.weixin.qq.com/s/E96byRnQU0DUAgUF24u4zw) | 丁香生活研究所 2022-12-30 [v2](https://mp.weixin.qq.com/s/Jv3D_T0NszIXp5WvcWMTHw)
         - [老年人得肺炎，可能根本不会发烧咳嗽！但这3种信号要警惕](https://mp.weixin.qq.com/s/EaHbhKUVD_Lz0JEg697zFA)
@@ -393,6 +396,7 @@
       - [令科学家费解的新冠反弹现象](https://mp.weixin.qq.com/s/DEvnboEpHtElAlVudO-uLQ) | Nature Portfolio 2023-01-05
       - [这次「症状重的人」和「症状轻的人」，谁的免疫系统更强？](https://mp.weixin.qq.com/s/vLUriLU6nLpKAnPPcU373Q) | 中科院物理所 2023-01-05
       - [明明康复了，怎么又「复阳」？](https://mp.weixin.qq.com/s/PNZ4vzcTMG9x9RDVTVmqaA) | 丁香医生 2023-01-08
+      - [发烧缘何“忽冷忽热”，该如何退？](https://mp.weixin.qq.com/s/Eehvoz5ttmiCExFsgpU74w) | 中科院物理所 2023-01-09
     - 症状 & 现象
       - [26名新冠感染者的自述](https://mp.weixin.qq.com/s/LqYp5E1Uk0uUcwnPeNvS4Q) | 第一财经 2022-12-06
       - [阳性感染者只咳嗽发烧算无症状吗？](https://mp.weixin.qq.com/s/_7ouo3SkRaTzRm4eSjbXqw) | 丁香医生 2022-12-14
@@ -405,6 +409,7 @@
       - [「新冠肺炎」对肺部还有损伤吗？](https://mp.weixin.qq.com/s/JZ8REXaluLJeC9E4QYaifg) | 丁香医生 2022-12-15
       - [脑雾是新冠的后遗症吗？](https://mp.weixin.qq.com/s/0dgvdm5KykJDNniUpdOXsg) | 丁香医生 2022-12-15
       - [感染新冠会影响男性或女性的生育力吗？](https://mp.weixin.qq.com/s/p0jhS_5xLoya3iFkGp6sag) | 丁香医生 2022-12-27
+      - [肺炎会留后遗症吗？](https://mp.weixin.qq.com/s/mC2V3SmmHd2F0Ws7Dn59lw) | 丁香医生 2023-01-10
     - 抗体 & 二次感染
       - [二次感染新冠会更严重么？关于重复感染的简明事实](https://mp.weixin.qq.com/s/tdawSCUKOjReHwMT9VMtqQ) | 丁香医生 2022-12-14
       - [新冠感染多久能产生抗体？“二次感染”和哪些因素有关？](https://mp.weixin.qq.com/s/Aqb3WK4XSWqiXbmi3Bg1MA) | 第一财经 2022-12-20
@@ -427,7 +432,10 @@
     - [靠放血来退烧、治嗓子疼？不靠谱，别信！](https://mp.weixin.qq.com/s/IImF1LSKYb1ufAPh8TF3LQ) | 果壳 2022-12-29
     - [这款疫苗能“终结新冠”？它真的有这么强吗？](https://mp.weixin.qq.com/s/fo9mr3emgrU5aebZPZ_2oQ) | 果壳 2023-01-04
     - [接种新冠灭活疫苗会导致肺结节吗?](https://mp.weixin.qq.com/s/BoGe5UGoZkqTe7glMAYYgQ) | 上海疾控 2023-01-04
+    - [丙种球蛋白对新冠无益，请留给真正需要的人](https://mp.weixin.qq.com/s/gDAvj_gzptp-My7MekmdOg) | 丁香医生 2023-01-09
   * 相关报道（选录）
+    - [P药无缘医保，但辉瑞的生意算盘还在打响](https://mp.weixin.qq.com/s/rYyKcvNKgzkiSAoZL1FgQg) | 36氪 2023-01-09
+    - [真实生物的真实面目](https://mp.weixin.qq.com/s/gA47xEDBANi-yY9g2B4-aA) | 果壳 2022-08-24
     - [从月入30万到失业讨薪，核酸产业人员极速过山车](https://mp.weixin.qq.com/s/lnUowfoEB2Znmo79SgXjDA) | Tech星球 2023-01-04
     - [乡村医生们的心痛时刻：「只能把老人往上面医院送」](https://mp.weixin.qq.com/s/9dVsUBkvWmOPH-TR5WL_fw) | 丁香医生 2023-01-03
     - [春运前的返乡者：有人千里带药回乡，有人回村排队就医](https://mp.weixin.qq.com/s/TU2Q7Oq63OJV5fph8fql7w) | 第一财经 2023-01-03
