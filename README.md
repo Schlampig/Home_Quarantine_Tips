@@ -277,6 +277,9 @@
       - [不把新冠带进家，学会这个大原则就够了](https://mp.weixin.qq.com/s/imf7PkF42v2pDLv1Xit7iw) | 果壳 2022-12-09
       - [家里有人阳了，怎么避免传染？超详细指导手册来了](https://mp.weixin.qq.com/s/kE-ELDhxeoFSzhNpJwJZxQ) | 丁香医生 2022-12-12
       - [身边人阳了，但这样消毒根本没用！（看看你中招没 ）](https://mp.weixin.qq.com/s/TngYIuFwEVHRxUgGJWZI0Q) | 果壳 2022-12-12
+    - 出行防护
+      - [春节返乡途中，除了口罩还有什么值得带？](https://mp.weixin.qq.com/s/LkwC9O8K-gReypM7Sa2nRQ) | 丁香医生 2023-01-11
+      - [春节跨省出行，会感染其他地方的病毒吗？](https://mp.weixin.qq.com/s/wHclPX79CIzoTbhY4NtO8w) | 丁香医生 2023-01-11
     - 老年人防护
       - [我们如何保护老年人和脆弱人群安然度过疫情？](https://mp.weixin.qq.com/s/Et4D9fDQrsb4gUi73vq2Vw) | 华山感染 2022-12-01
       - [张文宏：新冠最终会成为季节性流行病，如何帮助老人躲过第一波感染](https://mp.weixin.qq.com/s/vjzFpF7Lk_2EaE530u4jAA) | 第一财经 2022-12-12
@@ -383,6 +386,7 @@
       - [阳康后能洗澡吗？能运动吗？13 个你最关心的生活问题](https://mp.weixin.qq.com/s/-DEvsYHXk807ZlJkp0z1vQ) | 丁香医生 2022-12-22 [v2](https://mp.weixin.qq.com/s/sy616kiX7lVg2Cq4r3j12g)
       - [注意工作节奏，做好健康监测！“阳康”们陆续返岗上班，这份防护指南请查收](https://mp.weixin.qq.com/s/foH4MQEux5ifej9JzKSF6A) | 上海发布 2022-12-28
       - [恢复期实用指南，这十项很重要](https://mp.weixin.qq.com/s/vGrKkk93L7xdMkqZPBwCAA) | 央视新闻 2023-01-05
+      - [阳康后性生活算剧烈运动吗？想备孕怎么办](https://mp.weixin.qq.com/s/af3wY1kMgkCXRHLaq6Jvjg) | 果壳 2023-01-11
   * 症状了解
     - 原理
       - [新冠病毒真的变弱了吗？](https://mp.weixin.qq.com/s/ADtTgyjLICefIMREVsz2vw) | 丁香医生 2022-12-06
