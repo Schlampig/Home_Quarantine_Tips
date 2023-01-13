@@ -332,6 +332,7 @@
         - [应对新冠，我们应该备什么药？（附：家中常备药清单](https://mp.weixin.qq.com/s/tCq0dRUtyIfDlx6dAQjWJQ) | 丁香生活研究所 2022-12-08
         - [重要提醒！新冠用药的 10 个注意事项](https://mp.weixin.qq.com/s/uVqD6y_YY3-lFPrnT4BBQw) | 丁香医生 2022-12-10 [v2](https://mp.weixin.qq.com/s/5RnLCmazbqmc0I2-XhPHSQ)
         - [吃帕罗韦德（Paxlovid）之前要搞清楚的 10 个问题](https://mp.weixin.qq.com/s/qNjM-LhgFduEuibsyn1MJA) | 丁香医生 2022-12-30
+        - [帕罗韦德、阿兹夫定、莫诺拉韦，应该选哪个？](https://mp.weixin.qq.com/s/iUueXqrOSWzM-xRoUoWhrg) | 丁香医生 2023-01-12
       - 退烧
         - [发烧必须要吃退烧药吗？何时开始服药？专家这样建议](https://mp.weixin.qq.com/s/BIkVsAGbHkbqy2mmUPGRnA) | 第一财经 2022-12-11
         - [发烧几度要吃药？没有药怎么办？给你一份发烧应对手册](https://mp.weixin.qq.com/s/kxAFEUIA_Fdltb7ky259Og) | 丁香医生 2022-12-13
@@ -438,6 +439,7 @@
     - [接种新冠灭活疫苗会导致肺结节吗?](https://mp.weixin.qq.com/s/BoGe5UGoZkqTe7glMAYYgQ) | 上海疾控 2023-01-04
     - [丙种球蛋白对新冠无益，请留给真正需要的人](https://mp.weixin.qq.com/s/gDAvj_gzptp-My7MekmdOg) | 丁香医生 2023-01-09
   * 相关报道（选录）
+    - [把新冠当成普通肺炎治，乡镇医院在沉默中过峰](https://mp.weixin.qq.com/s/YPI4ZwEcLFtcrrCLkyozdw) | 丁香医生 2023-01-12
     - [P药无缘医保，但辉瑞的生意算盘还在打响](https://mp.weixin.qq.com/s/rYyKcvNKgzkiSAoZL1FgQg) | 36氪 2023-01-09
     - [真实生物的真实面目](https://mp.weixin.qq.com/s/gA47xEDBANi-yY9g2B4-aA) | 果壳 2022-08-24
     - [从月入30万到失业讨薪，核酸产业人员极速过山车](https://mp.weixin.qq.com/s/lnUowfoEB2Znmo79SgXjDA) | Tech星球 2023-01-04
