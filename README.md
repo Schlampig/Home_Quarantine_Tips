@@ -368,11 +368,13 @@
         - [新冠后失去嗅觉味觉，吃啥都不香？加速恢复的办法来了！](https://mp.weixin.qq.com/s/rfbPnXDHx8sVU6hleI8xqA) | 果壳 2022-12-30
         - [阳康后嗅觉、味觉为啥没了？多久能恢复？](https://mp.weixin.qq.com/s/oy_hrk70mStSvbrPPXQ5Hw) | 丁香生活研究所 2023-01-02
         - [“阳康”后发现视力下降、畏光...感染新冠及“阳康”后眼睛是否会病变？](https://mp.weixin.qq.com/s/yn6mzQNiMshhKOXVI2KLiA) | 第一财经 2023-01-05
+        - [新冠后眼睛红肿干涩，甚至刀片刮似的疼，该怎么办？](https://mp.weixin.qq.com/s/5H6fk26IO_BLhS1_wgkzzg) | 丁香医生 2023-01-13
       - 疲惫
         - [新冠后总觉得累，怎么才能恢复？](https://mp.weixin.qq.com/s/cKKHZxc33uGY88STKasB8Q) | 丁香医生 2022-12-30
         - [“阳康”后走几步就累，脑子也转不动，怎么办？](https://mp.weixin.qq.com/s/vKRRKGZeIXvk8Hb6I4jH2w) | 果壳 2023-01-06
         - [感染新冠后，究竟多久能「好透」？](https://mp.weixin.qq.com/s/vhxxael-EEemYVe6UC_GRw) | 丁香医生 2023-01-06
         - [感染新冠后经常头晕，甚至感觉天旋地转，怎么办？](https://mp.weixin.qq.com/s/eiAzi1UvgmY3x9AMRluwIQ) | 丁香医生 2023-01-08
+        - [阳康后怎么开始失眠了，和新冠有关吗？](https://mp.weixin.qq.com/s/tgMgXoJoS5NobsuMCmQ2pA) | 丁香医生 2023-01-13
     - 其他物资 & 对策
       - [除了药还要买什么？最全清单帮大家整理好了！](https://mp.weixin.qq.com/s/Kf8V2SBUwNGlmVUXMZ42bQ) | 丁香医生 2022-12-10
       - [感染新冠后应该吃点啥？没胃口怎么办？收好这份饮食手册](https://mp.weixin.qq.com/s/VxPdBreuTVwj_apJL5YymQ) | 丁香生活研究所 2022-12-16
