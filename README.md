@@ -237,7 +237,7 @@
     - 绳：准备1.5至3米结识绳索若干，用于捆紧背包或袋子
 <br>
 
-### 6 应对开放
+### 6 应对开放(2022年11月-2023年2月)
   * 时间线
     - [国家医保局约谈新冠药企降价，新冠报销延续住院个人零自付](https://mp.weixin.qq.com/s/zfkmO8hJflo_ixOoY4oLng) | 第一财经 2023-01-07
     - [1月8日起，我市核酸检测不再延续免费政策，有需要的市民可前往这些采样点进行检测](https://mp.weixin.qq.com/s/hF3PZnrz8x-ycbhH0kp3Rg) | 上海发布 2023-01-06
@@ -466,7 +466,7 @@
     - [乡村新冠患者就诊实录：镇医院床位不足百张，药店退烧药断货](https://mp.weixin.qq.com/s/RY_4u6QKXXqKz6utAv2NMA) | 第一财经 2022-12-14
 <br>
 
-### 7 参考资料
+### 参考资料
   * 他人经验
     - [这里](https://github.com/Schlampig/Home_Quarantine_Tips/tree/main/more_tips)存放收集自网络不同用户分享的经验资料
       - 原作者请见水印，部分作者难以追溯而未注明身份，欢迎告知我更新。
